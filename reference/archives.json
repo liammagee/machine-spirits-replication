@@ -1,0 +1,806 @@
+[
+  {
+    "archive": "20261105-claude-drama-v2-dials",
+    "directory": "01-fidelity-settings/20261105-claude-drama-v2-dials/runs",
+    "sourceName": "claude-drama-v2-dials-20261105",
+    "section": "Fidelity (the system) and the earlier check of the settings, 5 Nov"
+  },
+  {
+    "archive": "20261105-claude-delivery-v2",
+    "directory": "02-delivery-coding/20261105-claude-delivery-v2/runs",
+    "sourceName": "claude-delivery-v2-20261105",
+    "section": "Delivery coding, 5 and 10 Nov; delivery codebook version 4, 15 Nov (Measures)"
+  },
+  {
+    "archive": "20261110-claude-paper1-fable-fixes",
+    "directory": "02-delivery-coding/20261110-claude-paper1-fable-fixes/runs",
+    "sourceName": "claude-paper1-fable-fixes-20261110",
+    "section": "Delivery coding, 5 and 10 Nov; delivery codebook version 4, 15 Nov (Measures)"
+  },
+  {
+    "archive": "20261110-claude-item26-recode",
+    "directory": "02-delivery-coding/20261110-claude-item26-recode/runs",
+    "sourceName": "claude-item26-recode-20261110",
+    "section": "Delivery coding, 5 and 10 Nov; delivery codebook version 4, 15 Nov (Measures)"
+  },
+  {
+    "archive": "20261115-claude-delivery-codebook-v4",
+    "directory": "02-delivery-coding/20261115-claude-delivery-codebook-v4/runs",
+    "sourceName": "claude-delivery-codebook-v4-20261115",
+    "section": "Delivery coding, 5 and 10 Nov; delivery codebook version 4, 15 Nov (Measures)"
+  },
+  {
+    "archive": "20261105-claude-drama-reader-check-final",
+    "directory": "03-drama-reader/20261105-claude-drama-reader-check-final/runs",
+    "sourceName": "claude-drama-reader-check-20261105",
+    "section": "The drama reader: reliability check, 5 Nov (Measures)"
+  },
+  {
+    "archive": "20261108-claude-guard-recount",
+    "directory": "04-guards/20261108-claude-guard-recount/runs",
+    "sourceName": "claude-guard-recount-20261108",
+    "section": "Guards, 8 Nov (no model calls)"
+  },
+  {
+    "archive": "20261108-claude-guard-recount-b",
+    "directory": "04-guards/20261108-claude-guard-recount-b/runs",
+    "sourceName": "claude-guard-recount-20261108b",
+    "section": "Guards, 8 Nov (no model calls)"
+  },
+  {
+    "archive": "20261108-claude-guard-recount-c",
+    "directory": "04-guards/20261108-claude-guard-recount-c/runs",
+    "sourceName": "claude-guard-recount-20261108c",
+    "section": "Guards, 8 Nov (no model calls)"
+  },
+  {
+    "archive": "20261108-claude-final-answer-recount",
+    "directory": "05-final-answer-reader/20261108-claude-final-answer-recount/runs",
+    "sourceName": "claude-final-answer-recount-20261108",
+    "section": "Final-answer reader, 8 and 9 Nov; final-answer pacing, second reader and Printroom, 14 Nov"
+  },
+  {
+    "archive": "20261114-claude-pacing-second-reader",
+    "directory": "05-final-answer-reader/20261114-claude-pacing-second-reader/runs",
+    "sourceName": "claude-pacing-second-reader-20261114",
+    "section": "Final-answer reader, 8 and 9 Nov; final-answer pacing, second reader and Printroom, 14 Nov"
+  },
+  {
+    "archive": "20261105-claude-drama-v2-confirm",
+    "directory": "06-finding-01/20261105-claude-drama-v2-confirm/runs",
+    "sourceName": "claude-drama-v2-confirm-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-drama-v2-forty",
+    "directory": "06-finding-01/20261105-claude-drama-v2-forty/runs",
+    "sourceName": "claude-drama-v2-forty-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-drama-v2-trouble",
+    "directory": "06-finding-01/20261105-claude-drama-v2-trouble/runs",
+    "sourceName": "claude-drama-v2-trouble-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-drama-v2-free",
+    "directory": "06-finding-01/20261105-claude-drama-v2-free/runs",
+    "sourceName": "claude-drama-v2-free-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-drama-v2-models",
+    "directory": "06-finding-01/20261105-claude-drama-v2-models/runs",
+    "sourceName": "claude-drama-v2-models-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-drama-v2-directed",
+    "directory": "06-finding-01/20261105-claude-drama-v2-directed/runs",
+    "sourceName": "claude-drama-v2-directed-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-drama-v2-hold",
+    "directory": "06-finding-01/20261105-claude-drama-v2-hold/runs",
+    "sourceName": "claude-drama-v2-hold-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-drama-v2-sarcasm",
+    "directory": "06-finding-01/20261105-claude-drama-v2-sarcasm/runs",
+    "sourceName": "claude-drama-v2-sarcasm-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-sarcasm-dial",
+    "directory": "06-finding-01/20261105-claude-sarcasm-dial/runs",
+    "sourceName": "claude-sarcasm-dial-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-sarcasm-example",
+    "directory": "06-finding-01/20261105-claude-sarcasm-example/runs",
+    "sourceName": "claude-sarcasm-example-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261105-claude-sarcasm-line",
+    "directory": "06-finding-01/20261105-claude-sarcasm-line/runs",
+    "sourceName": "claude-sarcasm-line-20261105",
+    "section": "Finding 1, 5 Nov: A and B (confirmation run); the forty run; other learners; no rule; other models; the direction clause; the smaller runs of Section 5.1 (PRs 1196 to 1210)"
+  },
+  {
+    "archive": "20261107-claude-paper1-readings",
+    "directory": "07-finding-02-readings/20261107-claude-paper1-readings/runs",
+    "sourceName": "claude-paper1-readings-20261107",
+    "section": "Finding 2, 6 Nov, and other readings of saved requests and lessons (no model calls)"
+  },
+  {
+    "archive": "20261106-claude-keep-line-forks-with-readings",
+    "directory": "08-finding-03/20261106-claude-keep-line-forks-with-readings/runs",
+    "sourceName": "claude-keep-line-forks-20261106",
+    "section": "Finding 3, 6 Nov: forks F0, part 1, part 2, both parts"
+  },
+  {
+    "archive": "20261106-claude-keep-line-lessons",
+    "directory": "09-finding-04/20261106-claude-keep-line-lessons/runs",
+    "sourceName": "claude-keep-line-lessons-20261106",
+    "section": "Finding 4, 6 Nov: E drama-v2.2 against G drama-v2.3"
+  },
+  {
+    "archive": "20261106-claude-keep-line-disruptive",
+    "directory": "10-finding-05/20261106-claude-keep-line-disruptive/runs",
+    "sourceName": "claude-keep-line-disruptive-20261106",
+    "section": "Finding 5, 6 Nov: E, K and J"
+  },
+  {
+    "archive": "20261106-claude-fidelity-push",
+    "directory": "11-fidelity-push/20261106-claude-fidelity-push/runs",
+    "sourceName": "claude-fidelity-push-20261106",
+    "section": "Fidelity with a learner who pushes for the records, 6 and 14 Nov"
+  },
+  {
+    "archive": "20261106-claude-fidelity-push-rerun",
+    "directory": "11-fidelity-push/20261106-claude-fidelity-push-rerun/runs",
+    "sourceName": "claude-fidelity-push-20261106",
+    "section": "Fidelity with a learner who pushes for the records, 6 and 14 Nov"
+  },
+  {
+    "archive": "20261114-fidelity-push-sol",
+    "directory": "11-fidelity-push/20261114-fidelity-push-sol/runs",
+    "sourceName": "fidelity-push-sol-20261114",
+    "section": "Fidelity with a learner who pushes for the records, 6 and 14 Nov"
+  },
+  {
+    "archive": "20261117-fidelity-descriptive-graph",
+    "directory": "12-plan-record/20261117-fidelity-descriptive-graph/runs",
+    "sourceName": "fidelity-descriptive-graph-20261117",
+    "section": "The plan record given to the playwright, 17 Nov"
+  },
+  {
+    "archive": "20261107-claude-switch-back",
+    "directory": "13-finding-06/20261107-claude-switch-back/runs",
+    "sourceName": "claude-switch-back-20261107",
+    "section": "Finding 6, 7 Nov: E drama-v2.2 against R drama-v2.7"
+  },
+  {
+    "archive": "20261107-claude-drama-material",
+    "directory": "14-finding-07/20261107-claude-drama-material/runs",
+    "sourceName": "claude-drama-material-20261107",
+    "section": "Finding 7, 7 Nov: D0 and DM on drama-v2.2 and drama-v2.7"
+  },
+  {
+    "archive": "20261107-claude-drama-material-v27",
+    "directory": "14-finding-07/20261107-claude-drama-material-v27/runs",
+    "sourceName": "claude-drama-material-v27-20261107",
+    "section": "Finding 7, 7 Nov: D0 and DM on drama-v2.2 and drama-v2.7"
+  },
+  {
+    "archive": "20261107-claude-rude-learner-lessons",
+    "directory": "15-appendix-b-refusal-rule/20261107-claude-rude-learner-lessons/runs",
+    "sourceName": "live-rude",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261107-claude-rude-learner-four",
+    "directory": "15-appendix-b-refusal-rule/20261107-claude-rude-learner-four/runs",
+    "sourceName": "exo-learner-poc-20261107",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261107-claude-answer-demand-test",
+    "directory": "15-appendix-b-refusal-rule/20261107-claude-answer-demand-test/runs",
+    "sourceName": "exo-learner-poc-20261107",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261107-claude-own-claim-test",
+    "directory": "15-appendix-b-refusal-rule/20261107-claude-own-claim-test/runs",
+    "sourceName": "exo-learner-poc-20261107",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261107-claude-tutor-discretion-test",
+    "directory": "15-appendix-b-refusal-rule/20261107-claude-tutor-discretion-test/runs",
+    "sourceName": "exo-learner-poc-20261107",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261107-claude-refusal-and-record-test",
+    "directory": "15-appendix-b-refusal-rule/20261107-claude-refusal-and-record-test/runs",
+    "sourceName": "exo-learner-poc-20261107",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261107-claude-general-refusal-test",
+    "directory": "15-appendix-b-refusal-rule/20261107-claude-general-refusal-test/runs",
+    "sourceName": "exo-learner-poc-20261107",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261107-claude-default-check-v214",
+    "directory": "15-appendix-b-refusal-rule/20261107-claude-default-check-v214/runs",
+    "sourceName": "exo-learner-poc-20261107",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261107-claude-default-check-v27",
+    "directory": "15-appendix-b-refusal-rule/20261107-claude-default-check-v27/runs",
+    "sourceName": "exo-learner-poc-20261107",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261108-claude-triggered-v216",
+    "directory": "15-appendix-b-refusal-rule/20261108-claude-triggered-v216/runs",
+    "sourceName": "exo-learner-poc-20261107",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261108-claude-stuck-learner-check",
+    "directory": "15-appendix-b-refusal-rule/20261108-claude-stuck-learner-check/runs",
+    "sourceName": "stuck-learner-check-20261108",
+    "section": "Appendix B: the refusal rule, 7 and 8 Nov, with its design history (rude learner tests of drama-v2.9 to drama-v2.14)"
+  },
+  {
+    "archive": "20261108-claude-rules-by-reading",
+    "directory": "16-finding-08/20261108-claude-rules-by-reading/runs",
+    "sourceName": "claude-rules-by-reading-20261108",
+    "section": "Finding 8, 8 Nov: pilot and larger check"
+  },
+  {
+    "archive": "20261108-claude-rules-by-reading-large",
+    "directory": "16-finding-08/20261108-claude-rules-by-reading-large/runs",
+    "sourceName": "claude-rules-by-reading-large-20261108",
+    "section": "Finding 8, 8 Nov: pilot and larger check"
+  },
+  {
+    "archive": "20261108-claude-item21-cross-model",
+    "directory": "17-finding-08-other-models/20261108-claude-item21-cross-model/runs",
+    "sourceName": "claude-item21-cross-model-20261108",
+    "section": "Finding 8 with other model families, 8 and 9 Nov"
+  },
+  {
+    "archive": "20261109-claude-playwright-reversal-a",
+    "directory": "17-finding-08-other-models/20261109-claude-playwright-reversal-a/runs",
+    "sourceName": "claude-opus-playwright-20261109",
+    "section": "Finding 8 with other model families, 8 and 9 Nov"
+  },
+  {
+    "archive": "20261109-claude-opus-playwright-b",
+    "directory": "17-finding-08-other-models/20261109-claude-opus-playwright-b/runs",
+    "sourceName": "claude-opus-playwright-20261109",
+    "section": "Finding 8 with other model families, 8 and 9 Nov"
+  },
+  {
+    "archive": "20261109-claude-sonnet-tutor-21c",
+    "directory": "17-finding-08-other-models/20261109-claude-sonnet-tutor-21c/runs",
+    "sourceName": "claude-sonnet-tutor-21c-20261109",
+    "section": "Finding 8 with other model families, 8 and 9 Nov"
+  },
+  {
+    "archive": "20261108-claude-item14-forks",
+    "directory": "18-default-checks/20261108-claude-item14-forks/runs",
+    "sourceName": "claude-item14-forks-20261108",
+    "section": "Checks of the default design (Appendix F): later replies not carried out; the bored learner"
+  },
+  {
+    "archive": "20261108-claude-tedium-forks",
+    "directory": "18-default-checks/20261108-claude-tedium-forks/runs",
+    "sourceName": "claude-tedium-forks-20261108",
+    "section": "Checks of the default design (Appendix F): later replies not carried out; the bored learner"
+  },
+  {
+    "archive": "20261108-claude-tedium-lessons",
+    "directory": "18-default-checks/20261108-claude-tedium-lessons/runs",
+    "sourceName": "claude-tedium-lessons-20261108",
+    "section": "Checks of the default design (Appendix F): later replies not carried out; the bored learner"
+  },
+  {
+    "archive": "20261108-claude-qwen-exo-item16",
+    "directory": "19-appendix-c-second-learner/20261108-claude-qwen-exo-item16/runs",
+    "sourceName": "claude-qwen-exo-item16-20261108",
+    "section": "Appendix C: a second learner model, 8 and 9 Nov"
+  },
+  {
+    "archive": "20261109-claude-qwen-exo-sentence",
+    "directory": "19-appendix-c-second-learner/20261109-claude-qwen-exo-sentence/runs",
+    "sourceName": "claude-qwen-exo-sentence-20261109",
+    "section": "Appendix C: a second learner model, 8 and 9 Nov"
+  },
+  {
+    "archive": "20261109-claude-item9-reversal-first",
+    "directory": "20-role-reversal-own-stake/20261109-claude-item9-reversal-first/runs",
+    "sourceName": "claude-item9-reversal-first-20261109",
+    "section": "Role reversal with the character's own stake (Appendix E), 9 and 10 Nov"
+  },
+  {
+    "archive": "20261110-claude-item9-own-stake",
+    "directory": "20-role-reversal-own-stake/20261110-claude-item9-own-stake/runs",
+    "sourceName": "claude-item9-own-stake-20261109",
+    "section": "Role reversal with the character's own stake (Appendix E), 9 and 10 Nov"
+  },
+  {
+    "archive": "20261110-claude-item9-own-stake-confirm",
+    "directory": "20-role-reversal-own-stake/20261110-claude-item9-own-stake-confirm/runs",
+    "sourceName": "claude-item9-own-stake-confirm-20261110",
+    "section": "Role reversal with the character's own stake (Appendix E), 9 and 10 Nov"
+  },
+  {
+    "archive": "20261107-claude-learner-actor-audience",
+    "directory": "21-appendix-d-audience/20261107-claude-learner-actor-audience/runs",
+    "sourceName": "claude-learner-actor-audience-20261107",
+    "section": "Appendix D: the audience runs, 7 Nov"
+  },
+  {
+    "archive": "20261107-claude-learner-actor-audience-comparison",
+    "directory": "21-appendix-d-audience/20261107-claude-learner-actor-audience-comparison/runs",
+    "sourceName": "claude-learner-actor-audience-comparison-20261107",
+    "section": "Appendix D: the audience runs, 7 Nov"
+  },
+  {
+    "archive": "20261107-claude-tutor-audience-comparison",
+    "directory": "21-appendix-d-audience/20261107-claude-tutor-audience-comparison/runs",
+    "sourceName": "claude-tutor-audience-comparison-20261107",
+    "section": "Appendix D: the audience runs, 7 Nov"
+  },
+  {
+    "archive": "20261107-claude-tutor-audience-72",
+    "directory": "21-appendix-d-audience/20261107-claude-tutor-audience-72/runs",
+    "sourceName": "claude-tutor-audience-72-20261107",
+    "section": "Appendix D: the audience runs, 7 Nov"
+  },
+  {
+    "archive": "20261112-paper1-lesson-coding",
+    "directory": "22-lesson-level-count/20261112-paper1-lesson-coding/runs",
+    "sourceName": "paper1-lesson-coding-20261112",
+    "section": "Lesson-level count (Appendix K), 12 Nov: 1,185 saved lessons, two codes each"
+  },
+  {
+    "archive": "20261112-paper1-lesson-assessment",
+    "directory": "22-lesson-level-count/20261112-paper1-lesson-assessment/runs",
+    "sourceName": "paper1-lesson-assessment-20261112",
+    "section": "Lesson-level count (Appendix K), 12 Nov: 1,185 saved lessons, two codes each"
+  },
+  {
+    "archive": "20261113-paper1-f8-strategy-change",
+    "directory": "23-finding-08-strategy-change/20261113-paper1-f8-strategy-change/runs",
+    "sourceName": "paper1-f8-strategy-change-20261113",
+    "section": "Finding 8 coded for tutor-started change, 13 Nov: codebook versions 5 and 6"
+  },
+  {
+    "archive": "20261113-codebook-v6-tone",
+    "directory": "23-finding-08-strategy-change/20261113-codebook-v6-tone/runs",
+    "sourceName": "codebook-v6-tone-20261113",
+    "section": "Finding 8 coded for tutor-started change, 13 Nov: codebook versions 5 and 6"
+  },
+  {
+    "archive": "20261113-plain-tutor-comparison",
+    "directory": "24-finding-09/20261113-plain-tutor-comparison/runs",
+    "sourceName": "plain-tutor-comparison-20261113",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-plain-tutor-appendix-l",
+    "directory": "24-finding-09/20261114-plain-tutor-appendix-l/runs",
+    "sourceName": "plain-tutor-appendix-l-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-plain-tutor-appendix-l-drama",
+    "directory": "24-finding-09/20261114-plain-tutor-appendix-l-drama/runs",
+    "sourceName": "plain-tutor-appendix-l-drama-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-appendix-l-unquoted",
+    "directory": "24-finding-09/20261114-appendix-l-unquoted/runs",
+    "sourceName": "appendix-l-unquoted-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-appendix-l-unquoted-drama",
+    "directory": "24-finding-09/20261114-appendix-l-unquoted-drama/runs",
+    "sourceName": "appendix-l-unquoted-drama-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-paper1-sonnet-reproduction",
+    "directory": "24-finding-09/20261114-paper1-sonnet-reproduction/runs",
+    "sourceName": "paper1-sonnet-reproduction-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-paper1-sonnet-told",
+    "directory": "24-finding-09/20261114-paper1-sonnet-told/runs",
+    "sourceName": "paper1-sonnet-told-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-paper1-sol-reproduction",
+    "directory": "24-finding-09/20261114-paper1-sol-reproduction/runs",
+    "sourceName": "paper1-sol-reproduction-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-appendix-l-other-tutors",
+    "directory": "24-finding-09/20261114-appendix-l-other-tutors/runs",
+    "sourceName": "appendix-l-other-tutors-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-appendix-l-other-tutors-drama",
+    "directory": "24-finding-09/20261114-appendix-l-other-tutors-drama/runs",
+    "sourceName": "appendix-l-other-tutors-drama-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-museum-drama-material",
+    "directory": "24-finding-09/20261114-museum-drama-material/runs",
+    "sourceName": "museum-drama-material-20261114",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "plain-tutor-appendix-l-present-20261117",
+    "directory": "24-finding-09/plain-tutor-appendix-l-present-20261117/runs",
+    "sourceName": "plain-tutor-appendix-l-present-20261117",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "plain-tutor-appendix-l-whole-20261117",
+    "directory": "24-finding-09/plain-tutor-appendix-l-whole-20261117/runs",
+    "sourceName": "plain-tutor-appendix-l-whole-20261117",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "plain-tutor-appendix-l-routed-20261118",
+    "directory": "24-finding-09/plain-tutor-appendix-l-routed-20261118/runs",
+    "sourceName": "plain-tutor-appendix-l-routed-20261118",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "plain-tutor-appendix-l-routing-only-20261118",
+    "directory": "24-finding-09/plain-tutor-appendix-l-routing-only-20261118/runs",
+    "sourceName": "plain-tutor-appendix-l-routing-only-20261118",
+    "section": "Finding 9, 13, 14, 17 and 18 Nov: plain, told and layered tutors; the Appendix L arms; other tutor models; the Museum"
+  },
+  {
+    "archive": "20261114-paper1-own-family-check",
+    "directory": "25-own-family-check/20261114-paper1-own-family-check/runs",
+    "sourceName": "paper1-own-family-check-20261114",
+    "section": "Own-family check on Finding 9, 14 Nov (no model calls)"
+  },
+  {
+    "archive": "20261114-actor-texts-whole-lessons",
+    "directory": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs",
+    "sourceName": "actor-texts-whole-lessons-20261114",
+    "section": "The layered tutor without the actor's texts, 14 Nov"
+  },
+  {
+    "archive": "20261114-actor-texts-terra-extension",
+    "directory": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs",
+    "sourceName": "actor-texts-terra-extension-20261114",
+    "section": "The layered tutor without the actor's texts, 14 Nov"
+  },
+  {
+    "archive": "20261114-apology-moments",
+    "directory": "27-actor-texts-single-replies/20261114-apology-moments/runs",
+    "sourceName": "apology-moments-20261114",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261114-theatre-setup-test",
+    "directory": "27-actor-texts-single-replies/20261114-theatre-setup-test/runs",
+    "sourceName": "theatre-setup-test-20261114",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261114-actor-texts-models",
+    "directory": "27-actor-texts-single-replies/20261114-actor-texts-models/runs",
+    "sourceName": "actor-texts-models-20261114",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261114-actor-separation-forks-pilot",
+    "directory": "27-actor-texts-single-replies/20261114-actor-separation-forks-pilot/runs",
+    "sourceName": "actor-separation-forks-pilot-20261114",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261114-actor-separation-stress-test",
+    "directory": "27-actor-texts-single-replies/20261114-actor-separation-stress-test/runs",
+    "sourceName": "actor-separation-stress-test-20261114",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261115-actor-separation-test",
+    "directory": "27-actor-texts-single-replies/20261115-actor-separation-test/runs",
+    "sourceName": "actor-separation-test-20261115",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261115-complaint-theatre",
+    "directory": "27-actor-texts-single-replies/20261115-complaint-theatre/runs",
+    "sourceName": "complaint-theatre-20261115",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261115-apology-sonnet-sol",
+    "directory": "27-actor-texts-single-replies/20261115-apology-sonnet-sol/runs",
+    "sourceName": "apology-sonnet-sol-20261115",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261115-actor-description",
+    "directory": "27-actor-texts-single-replies/20261115-actor-description/runs",
+    "sourceName": "actor-description-20261115",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261115-actor-split",
+    "directory": "27-actor-texts-single-replies/20261115-actor-split/runs",
+    "sourceName": "actor-split-20261115",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261115-apology-steps",
+    "directory": "27-actor-texts-single-replies/20261115-apology-steps/runs",
+    "sourceName": "apology-steps-20261115",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261115-actor-debate-tests",
+    "directory": "27-actor-texts-single-replies/20261115-actor-debate-tests/runs",
+    "sourceName": "actor-debate-tests-20261115",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261115-actor-position-repeat",
+    "directory": "27-actor-texts-single-replies/20261115-actor-position-repeat/runs",
+    "sourceName": "actor-position-repeat-20261115",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261115-actor-framing-spot-check",
+    "directory": "27-actor-texts-single-replies/20261115-actor-framing-spot-check/runs",
+    "sourceName": "actor-framing-spot-check-20261115",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261114-reader-frequency-test",
+    "directory": "27-actor-texts-single-replies/20261114-reader-frequency-test/runs",
+    "sourceName": "reader-frequency-test-20261114",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261114-reader-apology-moment-test",
+    "directory": "27-actor-texts-single-replies/20261114-reader-apology-moment-test/runs",
+    "sourceName": "reader-apology-moment-test-20261114",
+    "section": "The actor's texts: apology after a complaint; the description and the instruction separated, 14 and 15 Nov; drama readers' known-answer tests"
+  },
+  {
+    "archive": "20261114-layer-removal",
+    "directory": "28-finding-10/20261114-layer-removal/runs",
+    "sourceName": "layer-removal-20261114",
+    "section": "Finding 10, 14 Nov: without the review of drafts; without the playwright's call between turns"
+  },
+  {
+    "archive": "20261115-four-part-tutor",
+    "directory": "29-finding-11/20261115-four-part-tutor/runs",
+    "sourceName": "four-part-tutor-20261115",
+    "section": "Finding 11, 15 Nov: the four-part tutor"
+  },
+  {
+    "archive": "20261114-actor-texts-gemini",
+    "directory": "30-gemini-tutor/20261114-actor-texts-gemini/runs",
+    "sourceName": "actor-texts-gemini-20261114",
+    "section": "Gemini 4 Hydrogen as tutor, 15 Nov"
+  },
+  {
+    "archive": "20261115-strategy-line-wording",
+    "directory": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs",
+    "sourceName": "strategy-line-wording-20261115",
+    "section": "Finding 12, 15 and 16 Nov: strategy lines"
+  },
+  {
+    "archive": "20261115-strategy-line-wording-sol-later",
+    "directory": "31-finding-12-strategy-lines/20261115-strategy-line-wording-sol-later/runs",
+    "sourceName": "strategy-line-wording-sol-later-20261115",
+    "section": "Finding 12, 15 and 16 Nov: strategy lines"
+  },
+  {
+    "archive": "20261116-strategy-later-lines-seven",
+    "directory": "31-finding-12-strategy-lines/20261116-strategy-later-lines-seven/runs",
+    "sourceName": "strategy-later-lines-seven-20261116",
+    "section": "Finding 12, 15 and 16 Nov: strategy lines"
+  },
+  {
+    "archive": "20261116-strategy-later-lines-others",
+    "directory": "31-finding-12-strategy-lines/20261116-strategy-later-lines-others/runs",
+    "sourceName": "strategy-later-lines-others-20261116",
+    "section": "Finding 12, 15 and 16 Nov: strategy lines"
+  },
+  {
+    "archive": "20261115-claude-weighted-draw",
+    "directory": "32-finding-12-learned-draw/20261115-claude-weighted-draw/runs",
+    "sourceName": "claude-weighted-draw-20261115",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-claude-weighted-draw-laptop",
+    "directory": "32-finding-12-learned-draw/20261115-claude-weighted-draw-laptop/runs",
+    "sourceName": "claude-weighted-draw-laptop-20261115",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-claude-weighted-draw-stopped",
+    "directory": "32-finding-12-learned-draw/20261115-claude-weighted-draw-stopped/runs",
+    "sourceName": "claude-weighted-draw-stopped-20261115",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-claude-weighted-draw-v8",
+    "directory": "32-finding-12-learned-draw/20261115-claude-weighted-draw-v8/runs",
+    "sourceName": "claude-weighted-draw-v8-20261115",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-claude-weighted-draw-sol",
+    "directory": "32-finding-12-learned-draw/20261115-claude-weighted-draw-sol/runs",
+    "sourceName": "claude-weighted-draw-sol-20261115",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-weighted-draw-sol",
+    "directory": "32-finding-12-learned-draw/20261115-weighted-draw-sol/runs",
+    "sourceName": "weighted-draw-sol-20261115",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-weighted-draw-sonnet",
+    "directory": "32-finding-12-learned-draw/20261115-weighted-draw-sonnet/runs",
+    "sourceName": "weighted-draw-sonnet-20261115",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-weighted-draw-sonnet-v8",
+    "directory": "32-finding-12-learned-draw/20261115-weighted-draw-sonnet-v8/runs",
+    "sourceName": "weighted-draw-sonnet-v8-20261115",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-weighted-draw-sonnet-recode-v4",
+    "directory": "32-finding-12-learned-draw/20261115-weighted-draw-sonnet-recode-v4/runs",
+    "sourceName": "recode-v4",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-what-followed",
+    "directory": "32-finding-12-learned-draw/20261115-what-followed/runs",
+    "sourceName": "what-followed-20261115",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261116-claude-later-reply-learning",
+    "directory": "32-finding-12-learned-draw/20261116-claude-later-reply-learning/runs",
+    "sourceName": "claude-later-reply-learning-20261116",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261116-claude-later-reply-repeat",
+    "directory": "32-finding-12-learned-draw/20261116-claude-later-reply-repeat/runs",
+    "sourceName": "claude-later-reply-repeat-20261116",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261116-codebook-v7-goal-objection",
+    "directory": "32-finding-12-learned-draw/20261116-codebook-v7-goal-objection/runs",
+    "sourceName": "codebook-v7-goal-objection-20261116",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261116-claude-drama-score-learning",
+    "directory": "32-finding-12-learned-draw/20261116-claude-drama-score-learning/runs",
+    "sourceName": "claude-drama-score-learning-20261116",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261116-claude-cap-variety-learning",
+    "directory": "32-finding-12-learned-draw/20261116-claude-cap-variety-learning/runs",
+    "sourceName": "claude-cap-variety-learning-20261116",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261116-claude-cap-variety-second-run",
+    "directory": "32-finding-12-learned-draw/20261116-claude-cap-variety-second-run/runs",
+    "sourceName": "claude-cap-variety-second-run-20261116",
+    "section": "Finding 12, 15 and 16 Nov: the strategy drawn at random by learned weights"
+  },
+  {
+    "archive": "20261115-thin-character-actor-action",
+    "directory": "33-three-arrangements/20261115-thin-character-actor-action/runs",
+    "sourceName": "thin-character-actor-action-20261115",
+    "section": "Three arrangements of actor, character and playwright, 15 Nov"
+  },
+  {
+    "archive": "20261115-actor-plays-for-playwright",
+    "directory": "33-three-arrangements/20261115-actor-plays-for-playwright/runs",
+    "sourceName": "actor-plays-for-playwright-20261115",
+    "section": "Three arrangements of actor, character and playwright, 15 Nov"
+  },
+  {
+    "archive": "20261115-actor-plays-for-playwright-amended",
+    "directory": "33-three-arrangements/20261115-actor-plays-for-playwright-amended/runs",
+    "sourceName": "actor-plays-for-playwright-amended-20261115",
+    "section": "Three arrangements of actor, character and playwright, 15 Nov"
+  },
+  {
+    "archive": "20261115-actor-plays-for-playwright-delivery",
+    "directory": "33-three-arrangements/20261115-actor-plays-for-playwright-delivery/runs",
+    "sourceName": "actor-plays-for-playwright-delivery-20261115",
+    "section": "Three arrangements of actor, character and playwright, 15 Nov"
+  },
+  {
+    "archive": "20261115-actor-plays-for-playwright-hold",
+    "directory": "33-three-arrangements/20261115-actor-plays-for-playwright-hold/runs",
+    "sourceName": "actor-plays-for-playwright-hold-20261115",
+    "section": "Three arrangements of actor, character and playwright, 15 Nov"
+  },
+  {
+    "archive": "20261115-actor-plays-for-playwright-hold-delivery",
+    "directory": "33-three-arrangements/20261115-actor-plays-for-playwright-hold-delivery/runs",
+    "sourceName": "actor-plays-for-playwright-hold-delivery-20261115",
+    "section": "Three arrangements of actor, character and playwright, 15 Nov"
+  },
+  {
+    "archive": "20261115-actor-plays-for-playwright-confirm",
+    "directory": "33-three-arrangements/20261115-actor-plays-for-playwright-confirm/runs",
+    "sourceName": "actor-plays-for-playwright-confirm-20261115",
+    "section": "Three arrangements of actor, character and playwright, 15 Nov"
+  },
+  {
+    "archive": "20261115-actor-plays-for-playwright-sol",
+    "directory": "33-three-arrangements/20261115-actor-plays-for-playwright-sol/runs",
+    "sourceName": "actor-plays-for-playwright-sol-20261115",
+    "section": "Three arrangements of actor, character and playwright, 15 Nov"
+  },
+  {
+    "archive": "20261114-learner-concern-whole-lesson",
+    "directory": "34-learner-types/20261114-learner-concern-whole-lesson/runs",
+    "sourceName": "learner-concern-whole-lesson-20261114",
+    "section": "Learner types across whole lessons, 14 Nov"
+  },
+  {
+    "archive": "20261115-paper-claim-traceability",
+    "directory": "35-claim-traceability/20261115-paper-claim-traceability/runs",
+    "sourceName": "paper-claim-traceability-20261115",
+    "section": "Rereadings and recounts behind Appendix G and the evidence registers, 15 Nov (selected folders)"
+  },
+  {
+    "archive": "20261117-laptop-late-additions",
+    "directory": "36-late-additions/20261117-laptop-late-additions/runs",
+    "sourceName": "laptop-late-additions-20261117",
+    "section": "Six files added to five run folders after they were archived, 17 Nov"
+  }
+]

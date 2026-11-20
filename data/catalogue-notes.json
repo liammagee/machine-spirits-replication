@@ -1,0 +1,32 @@
+[
+  {
+    "run_id": "paper1-reported-numbers",
+    "subject_kind": "reported-number",
+    "subject_id": "Section 5.1 and Finding 1: the smaller runs (PRs 1196 to 1210)|Forty run, codebook v2: later replies part or better by both|A and B",
+    "measure": "printed",
+    "method": "paper 1 printed value",
+    "version": "corrected 2026-11-07",
+    "value_num": null,
+    "value_text": "263 of 271",
+    "detail_json": "{\"decided\":\"the user, 7 November 2026: \\\"Yes to all three\\\"\",\"note\":\"253 is the count under codebook v1 (2026-11-05-drama-v2-hold-forty); under codebook v2, which this sentence of MANUSCRIPT-v2.md names, the same 271 replies give 263.\",\"places\":[\"MANUSCRIPT-v2.md, Finding 1\"]}",
+    "source_archive": "20261107-claude-paper1-readings",
+    "source_path": "docs/papers/human-ai-collaboration/PROCESS-LOG-PAPER1.md (7 November 2026)",
+    "source_sha256": null,
+    "row_sha256": "c2108ccf2617ad9488e5459d809a6bd819bec0101f6f6a63ef6900d94d9f17e7"
+  },
+  {
+    "run_id": "paper1-reported-numbers",
+    "subject_kind": "reported-number",
+    "subject_id": "Section 5.1 and Finding 1: the smaller runs (PRs 1196 to 1210)|Test 3: later replies under a disruptive strategy, yes by both (PR 1202)|value",
+    "measure": "printed",
+    "method": "paper 1 printed value",
+    "version": "corrected 2026-11-07",
+    "value_num": null,
+    "value_text": "2 of 12",
+    "detail_json": "{\"decided\":\"the user, 7 November 2026: \\\"Yes to all three\\\"\",\"note\":\"12 such replies (2 yes, 9 part, 1 split); the summary had counted 8 part.\",\"places\":[\"2026-11-05-drama-v2-free-choice\",\"docs/drama-v2/free/SUMMARY.md\",\"DRAFT-UPDATE-20261106.md\",\"MANUSCRIPT-v2.md, Finding 1\"]}",
+    "source_archive": "20261107-claude-paper1-readings",
+    "source_path": "docs/papers/human-ai-collaboration/PROCESS-LOG-PAPER1.md (7 November 2026)",
+    "source_sha256": null,
+    "row_sha256": "e9af47886eda53ca333de6b478635a069a4c359dc4d57bddddef89f87ce938e9"
+  }
+]

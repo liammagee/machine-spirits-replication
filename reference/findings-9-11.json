@@ -1,0 +1,803 @@
+[
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "PT",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "PT",
+    "measure": "made",
+    "printed": [
+      1,
+      1
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "PT",
+    "measure": "held",
+    "printed": [
+      1,
+      1
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "PT",
+    "measure": "tone",
+    "printed": [
+      0,
+      0
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "PT",
+    "measure": "learner_directed",
+    "printed": [
+      6,
+      6
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "PT",
+    "measure": "inference",
+    "printed": [
+      4,
+      6
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "TR",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "TR",
+    "measure": "made",
+    "printed": [
+      4,
+      5
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "TR",
+    "measure": "held",
+    "printed": [
+      4,
+      4
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "TR",
+    "measure": "tone",
+    "printed": [
+      0,
+      0
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "TR",
+    "measure": "learner_directed",
+    "printed": [
+      5,
+      6
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "TR",
+    "measure": "inference",
+    "printed": [
+      3,
+      5
+    ]
+  },
+  {
+    "study": "20261114-plain-tutor-appendix-l",
+    "arm": "AL",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-plain-tutor-appendix-l",
+    "arm": "AL",
+    "measure": "made",
+    "printed": [
+      11,
+      14
+    ]
+  },
+  {
+    "study": "20261114-plain-tutor-appendix-l",
+    "arm": "AL",
+    "measure": "held",
+    "printed": [
+      9,
+      11
+    ]
+  },
+  {
+    "study": "20261114-plain-tutor-appendix-l",
+    "arm": "AL",
+    "measure": "tone",
+    "printed": [
+      3,
+      5
+    ]
+  },
+  {
+    "study": "20261114-plain-tutor-appendix-l",
+    "arm": "AL",
+    "measure": "learner_directed",
+    "printed": [
+      4,
+      4
+    ]
+  },
+  {
+    "study": "20261114-plain-tutor-appendix-l",
+    "arm": "AL",
+    "measure": "inference",
+    "printed": [
+      1,
+      2
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-present-20261117",
+    "arm": "AL2",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-present-20261117",
+    "arm": "AL2",
+    "measure": "made",
+    "printed": [
+      4,
+      5
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-present-20261117",
+    "arm": "AL2",
+    "measure": "held",
+    "printed": [
+      4,
+      4
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-present-20261117",
+    "arm": "AL2",
+    "measure": "tone",
+    "printed": [
+      1,
+      1
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-present-20261117",
+    "arm": "AL2",
+    "measure": "learner_directed",
+    "printed": [
+      5,
+      5
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-present-20261117",
+    "arm": "AL2",
+    "measure": "inference",
+    "printed": [
+      2,
+      1
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-whole-20261117",
+    "arm": "AL3",
+    "measure": "lessons",
+    "printed": [
+      19,
+      19
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-whole-20261117",
+    "arm": "AL3",
+    "measure": "made",
+    "printed": [
+      8,
+      6
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-whole-20261117",
+    "arm": "AL3",
+    "measure": "held",
+    "printed": [
+      8,
+      5
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-whole-20261117",
+    "arm": "AL3",
+    "measure": "tone",
+    "printed": [
+      2,
+      3
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-whole-20261117",
+    "arm": "AL3",
+    "measure": "learner_directed",
+    "printed": [
+      3,
+      4
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-whole-20261117",
+    "arm": "AL3",
+    "measure": "inference",
+    "printed": [
+      3,
+      3
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routed-20261118",
+    "arm": "AL4",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routed-20261118",
+    "arm": "AL4",
+    "measure": "made",
+    "printed": [
+      2,
+      6
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routed-20261118",
+    "arm": "AL4",
+    "measure": "held",
+    "printed": [
+      2,
+      4
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routed-20261118",
+    "arm": "AL4",
+    "measure": "tone",
+    "printed": [
+      0,
+      0
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routed-20261118",
+    "arm": "AL4",
+    "measure": "learner_directed",
+    "printed": [
+      4,
+      4
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routed-20261118",
+    "arm": "AL4",
+    "measure": "inference",
+    "printed": [
+      0,
+      2
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routing-only-20261118",
+    "arm": "AL5",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routing-only-20261118",
+    "arm": "AL5",
+    "measure": "made",
+    "printed": [
+      9,
+      9
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routing-only-20261118",
+    "arm": "AL5",
+    "measure": "held",
+    "printed": [
+      8,
+      8
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routing-only-20261118",
+    "arm": "AL5",
+    "measure": "tone",
+    "printed": [
+      2,
+      2
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routing-only-20261118",
+    "arm": "AL5",
+    "measure": "learner_directed",
+    "printed": [
+      4,
+      4
+    ]
+  },
+  {
+    "study": "plain-tutor-appendix-l-routing-only-20261118",
+    "arm": "AL5",
+    "measure": "inference",
+    "printed": [
+      2,
+      4
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "RR",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "RR",
+    "measure": "made",
+    "printed": [
+      15,
+      18
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "RR",
+    "measure": "held",
+    "printed": [
+      14,
+      18
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "RR",
+    "measure": "tone",
+    "printed": [
+      3,
+      7
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "RR",
+    "measure": "learner_directed",
+    "printed": [
+      1,
+      2
+    ]
+  },
+  {
+    "study": "20261113-plain-tutor-comparison",
+    "arm": "RR",
+    "measure": "inference",
+    "printed": [
+      0,
+      1
+    ]
+  },
+  {
+    "study": "20261114-paper1-sonnet-reproduction",
+    "arm": "PS",
+    "measure": "lessons",
+    "printed": [
+      19,
+      19
+    ]
+  },
+  {
+    "study": "20261114-paper1-sonnet-reproduction",
+    "arm": "PS",
+    "measure": "made",
+    "printed": [
+      4,
+      3
+    ]
+  },
+  {
+    "study": "20261114-paper1-sonnet-reproduction",
+    "arm": "SNR",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-paper1-sonnet-reproduction",
+    "arm": "SNR",
+    "measure": "made",
+    "printed": [
+      19,
+      20
+    ]
+  },
+  {
+    "study": "20261114-paper1-sonnet-told",
+    "arm": "TS",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-paper1-sonnet-told",
+    "arm": "TS",
+    "measure": "made",
+    "printed": [
+      9,
+      11
+    ]
+  },
+  {
+    "study": "20261114-appendix-l-other-tutors",
+    "arm": "AS",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-appendix-l-other-tutors",
+    "arm": "AS",
+    "measure": "made",
+    "printed": [
+      17,
+      18
+    ]
+  },
+  {
+    "study": "20261114-appendix-l-other-tutors",
+    "arm": "SAL",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-appendix-l-other-tutors",
+    "arm": "SAL",
+    "measure": "made",
+    "printed": [
+      11,
+      13
+    ]
+  },
+  {
+    "study": "20261114-paper1-sol-reproduction",
+    "arm": "SPT",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-paper1-sol-reproduction",
+    "arm": "SPT",
+    "measure": "made",
+    "printed": [
+      2,
+      4
+    ]
+  },
+  {
+    "study": "20261114-paper1-sol-reproduction",
+    "arm": "STR",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-paper1-sol-reproduction",
+    "arm": "STR",
+    "measure": "made",
+    "printed": [
+      7,
+      7
+    ]
+  },
+  {
+    "study": "20261114-paper1-sol-reproduction",
+    "arm": "SLR",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-paper1-sol-reproduction",
+    "arm": "SLR",
+    "measure": "made",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-actor-texts-gemini",
+    "arm": "GPT",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-actor-texts-gemini",
+    "arm": "GPT",
+    "measure": "made",
+    "printed": [
+      1,
+      2
+    ]
+  },
+  {
+    "study": "20261114-actor-texts-gemini",
+    "arm": "GMR",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-actor-texts-gemini",
+    "arm": "GMR",
+    "measure": "made",
+    "printed": [
+      19,
+      20
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "RR",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "RR",
+    "measure": "made",
+    "printed": [
+      15,
+      18
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "RR",
+    "measure": "held",
+    "printed": [
+      14,
+      16
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "RR",
+    "measure": "learner_directed",
+    "printed": [
+      1,
+      1
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "NV",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "NV",
+    "measure": "made",
+    "printed": [
+      18,
+      19
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "NV",
+    "measure": "held",
+    "printed": [
+      16,
+      18
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "NV",
+    "measure": "learner_directed",
+    "printed": [
+      1,
+      2
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "NP",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "NP",
+    "measure": "made",
+    "printed": [
+      3,
+      3
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "NP",
+    "measure": "held",
+    "printed": [
+      2,
+      2
+    ]
+  },
+  {
+    "study": "20261114-layer-removal",
+    "arm": "NP",
+    "measure": "learner_directed",
+    "printed": [
+      5,
+      5
+    ]
+  },
+  {
+    "study": "20261115-four-part-tutor",
+    "arm": "PT",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261115-four-part-tutor",
+    "arm": "PT",
+    "measure": "made",
+    "printed": [
+      0,
+      1
+    ]
+  },
+  {
+    "study": "20261115-four-part-tutor",
+    "arm": "PT",
+    "measure": "inference",
+    "printed": [
+      4,
+      6
+    ]
+  },
+  {
+    "study": "20261115-four-part-tutor",
+    "arm": "FP",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261115-four-part-tutor",
+    "arm": "FP",
+    "measure": "made",
+    "printed": [
+      15,
+      17
+    ]
+  },
+  {
+    "study": "20261115-four-part-tutor",
+    "arm": "FP",
+    "measure": "inference",
+    "printed": [
+      1,
+      3
+    ]
+  },
+  {
+    "study": "20261115-four-part-tutor",
+    "arm": "RR",
+    "measure": "lessons",
+    "printed": [
+      20,
+      20
+    ]
+  },
+  {
+    "study": "20261115-four-part-tutor",
+    "arm": "RR",
+    "measure": "made",
+    "printed": [
+      15,
+      18
+    ]
+  },
+  {
+    "study": "20261115-four-part-tutor",
+    "arm": "RR",
+    "measure": "inference",
+    "printed": [
+      0,
+      1
+    ]
+  }
+]

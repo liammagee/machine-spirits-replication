@@ -1,0 +1,308 @@
+[
+  {
+    "test": 1,
+    "group": "Score: drawn strategy carried out, no fault (15 Nov)",
+    "model": "GPT-6.1 Terra, old lines",
+    "learnedArmPrefix": "WL",
+    "coding": "32-finding-12-learned-draw/20261115-claude-weighted-draw/runs/final2-all/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261115-claude-weighted-draw/runs/final2-all/drama-view/drama/",
+    "expected": [
+      19,
+      20,
+      18,
+      18,
+      7,
+      5,
+      8
+    ]
+  },
+  {
+    "test": 2,
+    "group": "Score: drawn strategy carried out, no fault (15 Nov)",
+    "model": "GPT-6.1 Terra, new lines",
+    "learnedArmPrefix": "WV",
+    "coding": "32-finding-12-learned-draw/20261115-claude-weighted-draw-v8/runs/final3-all/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261115-claude-weighted-draw-v8/runs/final3-all/drama-view/drama/",
+    "expected": [
+      14,
+      16,
+      15,
+      19,
+      4,
+      5,
+      11
+    ]
+  },
+  {
+    "test": 3,
+    "group": "Score: drawn strategy carried out, no fault (15 Nov)",
+    "model": "GPT-6.1 Sol",
+    "learnedArmPrefix": "WS",
+    "coding": "32-finding-12-learned-draw/20261115-claude-weighted-draw-sol/runs/final/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261115-claude-weighted-draw-sol/runs/final/drama-view/drama/",
+    "expected": [
+      18,
+      20,
+      18,
+      20,
+      6,
+      2,
+      12
+    ]
+  },
+  {
+    "test": 4,
+    "group": "Score: drawn strategy carried out, no fault (15 Nov)",
+    "model": "Claude Sonnet 5.5",
+    "learnedArmPrefix": "SVL",
+    "coding": "32-finding-12-learned-draw/20261115-weighted-draw-sonnet-v8/runs/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261115-weighted-draw-sonnet-v8/runs/drama-view/drama/",
+    "expected": [
+      19,
+      19,
+      20,
+      20,
+      4,
+      6,
+      10
+    ]
+  },
+  {
+    "test": 5,
+    "group": "Score also on a later reply (16 Nov)",
+    "model": "GPT-6.1 Terra",
+    "learnedArmPrefix": "LX",
+    "coding": "32-finding-12-learned-draw/20261116-claude-later-reply-learning/runs/laptop/final-terra/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-later-reply-learning/runs/final-terra-all/drama-view/drama/",
+    "expected": [
+      18,
+      19,
+      19,
+      19,
+      9,
+      3,
+      8
+    ]
+  },
+  {
+    "test": 6,
+    "group": "Score also on a later reply (16 Nov)",
+    "model": "GPT-6.1 Terra, second run",
+    "learnedArmPrefix": "LX",
+    "coding": "32-finding-12-learned-draw/20261116-claude-later-reply-repeat/runs/laptop/final-terra-r/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-later-reply-repeat/runs/final-terra-r-all/drama-view/drama/",
+    "expected": [
+      17,
+      17,
+      19,
+      18,
+      7,
+      2,
+      11
+    ]
+  },
+  {
+    "test": 7,
+    "group": "Score also on a later reply (16 Nov)",
+    "model": "GPT-6.1 Sol",
+    "learnedArmPrefix": "LX",
+    "coding": "32-finding-12-learned-draw/20261116-claude-later-reply-learning/runs/laptop/final-sol/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-later-reply-learning/runs/final-sol-all/drama-view/drama/",
+    "expected": [
+      16,
+      17,
+      20,
+      20,
+      3,
+      4,
+      13
+    ]
+  },
+  {
+    "test": 8,
+    "group": "Score also on a later reply (16 Nov)",
+    "model": "GPT-6.1 Sol, second run",
+    "learnedArmPrefix": "LX",
+    "coding": "32-finding-12-learned-draw/20261116-claude-later-reply-repeat/runs/laptop/final-sol-r/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-later-reply-repeat/runs/laptop/final-sol-r/drama-view/drama/",
+    "expected": [
+      17,
+      18,
+      19,
+      19,
+      4,
+      5,
+      11
+    ]
+  },
+  {
+    "test": 9,
+    "group": "Score also on a later reply (16 Nov)",
+    "model": "Claude Sonnet 5.5",
+    "learnedArmPrefix": "LX",
+    "coding": "32-finding-12-learned-draw/20261116-claude-later-reply-learning/runs/laptop/final-sonnet/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-later-reply-learning/runs/final-sonnet-all/drama-view/drama/",
+    "expected": [
+      19,
+      19,
+      20,
+      20,
+      9,
+      3,
+      8
+    ]
+  },
+  {
+    "test": 10,
+    "group": "Drama a quarter of the score",
+    "model": "GPT-6.1 Terra",
+    "learnedArmPrefix": "QD",
+    "coding": "32-finding-12-learned-draw/20261116-claude-drama-score-learning/runs/laptop/final-terra/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-drama-score-learning/runs/laptop/final-terra/drama-summary-rows.json",
+    "expected": [
+      17,
+      20,
+      19,
+      20,
+      7,
+      3,
+      10
+    ]
+  },
+  {
+    "test": 11,
+    "group": "Drama a quarter of the score",
+    "model": "GPT-6.1 Sol",
+    "learnedArmPrefix": "QD",
+    "coding": "32-finding-12-learned-draw/20261116-claude-drama-score-learning/runs/laptop/final-sol/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-drama-score-learning/runs/laptop/final-sol/drama-summary-rows.json",
+    "expected": [
+      17,
+      17,
+      20,
+      19,
+      6,
+      2,
+      12
+    ]
+  },
+  {
+    "test": 12,
+    "group": "Drama a quarter of the score",
+    "model": "Claude Sonnet 5.5",
+    "learnedArmPrefix": "QD",
+    "coding": "32-finding-12-learned-draw/20261116-claude-drama-score-learning/runs/laptop/final-sonnet/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-drama-score-learning/runs/laptop/final-sonnet/drama-summary-rows.json",
+    "expected": [
+      19,
+      20,
+      20,
+      20,
+      7,
+      5,
+      8
+    ]
+  },
+  {
+    "test": 13,
+    "group": "Drama half the score, no cap",
+    "model": "GPT-6.1 Terra",
+    "learnedArmPrefix": "VD",
+    "coding": "32-finding-12-learned-draw/20261116-claude-cap-variety-learning/runs/laptop/final-terra/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-cap-variety-learning/runs/laptop/final-terra/drama-summary-rows.json",
+    "expected": [
+      18,
+      20,
+      16,
+      19,
+      3,
+      6,
+      11
+    ]
+  },
+  {
+    "test": 14,
+    "group": "Drama half the score, no cap",
+    "model": "GPT-6.1 Terra, second run",
+    "learnedArmPrefix": "VD",
+    "coding": "32-finding-12-learned-draw/20261116-claude-cap-variety-second-run/runs/laptop/second-terra/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-cap-variety-second-run/runs/laptop/second-terra/drama-summary-rows.json",
+    "expected": [
+      15,
+      19,
+      18,
+      18,
+      5,
+      4,
+      11
+    ]
+  },
+  {
+    "test": 15,
+    "group": "Drama half the score, no cap",
+    "model": "GPT-6.1 Sol",
+    "learnedArmPrefix": "VD",
+    "coding": "32-finding-12-learned-draw/20261116-claude-cap-variety-learning/runs/laptop/final-sol/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-cap-variety-learning/runs/laptop/final-sol/drama-summary-rows.json",
+    "expected": [
+      17,
+      16,
+      20,
+      20,
+      5,
+      5,
+      10
+    ]
+  },
+  {
+    "test": 16,
+    "group": "Drama half the score, no cap",
+    "model": "GPT-6.1 Sol, second run",
+    "learnedArmPrefix": "VD",
+    "coding": "32-finding-12-learned-draw/20261116-claude-cap-variety-second-run/runs/laptop/second-sol/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-cap-variety-second-run/runs/laptop/second-sol/drama-summary-rows.json",
+    "expected": [
+      17,
+      18,
+      20,
+      20,
+      3,
+      1,
+      16
+    ]
+  },
+  {
+    "test": 17,
+    "group": "Drama half the score, no cap",
+    "model": "Claude Sonnet 5.5",
+    "learnedArmPrefix": "VD",
+    "coding": "32-finding-12-learned-draw/20261116-claude-cap-variety-learning/runs/laptop/final-sonnet/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-cap-variety-learning/runs/laptop/final-sonnet/drama-summary-rows.json",
+    "expected": [
+      18,
+      19,
+      19,
+      19,
+      3,
+      5,
+      12
+    ]
+  },
+  {
+    "test": 18,
+    "group": "Drama half the score, no cap",
+    "model": "Claude Sonnet 5.5, second run",
+    "learnedArmPrefix": "VD",
+    "coding": "32-finding-12-learned-draw/20261116-claude-cap-variety-second-run/runs/laptop/second-sonnet/coding-summary.json",
+    "drama": "32-finding-12-learned-draw/20261116-claude-cap-variety-second-run/runs/laptop/second-sonnet/drama-summary-rows.json",
+    "expected": [
+      20,
+      19,
+      19,
+      20,
+      4,
+      5,
+      11
+    ]
+  }
+]
