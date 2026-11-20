@@ -1,0 +1,244 @@
+[
+ {
+  "where": "Finding 9",
+  "first": "layered",
+  "second": "plain",
+  "source": "24-finding-09/20261113-plain-tutor-comparison/runs/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 17,
+   "second": 1
+  }
+ },
+ {
+  "where": "Finding 9",
+  "first": "layered",
+  "second": "told (T)",
+  "source": "24-finding-09/20261113-plain-tutor-comparison/runs/drama/",
+  "contrast": "LT",
+  "printed": {
+   "pairs": 16,
+   "first": 12,
+   "second": 0
+  }
+ },
+ {
+  "where": "Finding 9",
+  "first": "layered",
+  "second": "given part two of Appendix L (A)",
+  "source": "24-finding-09/20261114-plain-tutor-appendix-l-drama/runs/drama/",
+  "contrast": "LA",
+  "printed": {
+   "pairs": 20,
+   "first": 16,
+   "second": 3
+  }
+ },
+ {
+  "where": "Finding 9",
+  "first": "layered",
+  "second": "arm A without the quoted replies",
+  "source": "24-finding-09/20261114-appendix-l-unquoted-drama/runs/drama/",
+  "contrast": "LN",
+  "printed": {
+   "pairs": 20,
+   "first": 13,
+   "second": 0,
+   "no_verdict": 7
+  }
+ },
+ {
+  "where": "Finding 9",
+  "first": "layered, Claude Sonnet 5.5 tutor",
+  "second": "arm A, Claude Sonnet 5.5 tutor",
+  "source": "24-finding-09/20261114-appendix-l-other-tutors-drama/runs/sonnet/drama/",
+  "contrast": "LA",
+  "printed": {
+   "pairs": 20,
+   "first": 12,
+   "second": 1,
+   "no_verdict": 7
+  }
+ },
+ {
+  "where": "Finding 9",
+  "first": "layered, GPT-6.1 Sol tutor",
+  "second": "arm A, GPT-6.1 Sol tutor",
+  "source": "24-finding-09/20261114-appendix-l-other-tutors-drama/runs/sol/drama/",
+  "contrast": "LA",
+  "printed": {
+   "pairs": 20,
+   "first": 13,
+   "second": 3,
+   "no_verdict": 4
+  }
+ },
+ {
+  "where": "Appendix J",
+  "first": "layered, Claude Sonnet 5.5 tutor",
+  "second": "plain, Claude Sonnet 5.5 tutor",
+  "source": "24-finding-09/20261114-paper1-sonnet-reproduction/runs/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 19,
+   "first": 14,
+   "second": 0,
+   "no_verdict": 5
+  }
+ },
+ {
+  "where": "Appendix J",
+  "first": "layered, Claude Sonnet 5.5 tutor",
+  "second": "told, Claude Sonnet 5.5 tutor",
+  "source": "24-finding-09/20261114-paper1-sonnet-told/runs/drama-told/",
+  "contrast": "LT",
+  "printed": {
+   "pairs": 16,
+   "first": 13,
+   "second": 0,
+   "no_verdict": 3
+  }
+ },
+ {
+  "where": "Appendix J",
+  "first": "layered, GPT-6.1 Sol tutor",
+  "second": "plain, GPT-6.1 Sol tutor",
+  "source": "24-finding-09/20261114-paper1-sol-reproduction/runs/drama-view/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 14,
+   "second": 2,
+   "no_verdict": 4
+  }
+ },
+ {
+  "where": "Appendix J",
+  "first": "layered, GPT-6.1 Sol tutor",
+  "second": "told, GPT-6.1 Sol tutor",
+  "source": "24-finding-09/20261114-paper1-sol-reproduction/runs/drama-view/drama/",
+  "contrast": "LT",
+  "printed": {
+   "pairs": 16,
+   "first": 11,
+   "second": 3,
+   "no_verdict": 2,
+   "p_two_sided": "0.057"
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "first": "layered, Gemini 4 Hydrogen tutor",
+  "second": "plain, Gemini 4 Hydrogen tutor",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/drama-view-plain/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 17,
+   "second": 0
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "first": "layered, Gemini 4 Hydrogen tutor",
+  "second": "without the actor's texts, Gemini 4 Hydrogen tutor",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/drama-view-noactor/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 4,
+   "second": 7
+  }
+ },
+ {
+  "where": "Finding 10",
+  "first": "layered",
+  "second": "without the review of drafts (NV)",
+  "source": "28-finding-10/20261114-layer-removal/runs/drama-view-NV/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 4,
+   "second": 6,
+   "tie": 1,
+   "no_verdict": 9
+  }
+ },
+ {
+  "where": "Finding 10",
+  "first": "layered",
+  "second": "without the playwright's call between turns (NP)",
+  "source": "28-finding-10/20261114-layer-removal/runs/drama-view-NP/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 20,
+   "second": 0,
+   "no_verdict": 0
+  }
+ },
+ {
+  "where": "Finding 11",
+  "first": "layered",
+  "second": "four-part",
+  "source": "29-finding-11/20261115-four-part-tutor/runs/drama-view-LF/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 9,
+   "second": 3,
+   "no_verdict": 8
+  }
+ },
+ {
+  "where": "Finding 11",
+  "first": "four-part",
+  "second": "plain",
+  "source": "29-finding-11/20261115-four-part-tutor/runs/drama-view-FP/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 9,
+   "second": 2
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "first": "layered, GPT-6.1 Terra tutor",
+  "second": "without the actor's texts, GPT-6.1 Terra tutor",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/drama-view-terra/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 2,
+   "second": 10,
+   "no_verdict": 8,
+   "p_two_sided": "0.039"
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "first": "layered, Claude Sonnet 5.5 tutor",
+  "second": "without the actor's texts, Claude Sonnet 5.5 tutor",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/drama-view-sonnet/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 6,
+   "second": 3
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "first": "layered, GPT-6.1 Sol tutor",
+  "second": "without the actor's texts, GPT-6.1 Sol tutor",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/drama-view-sol/drama/",
+  "contrast": "LP",
+  "printed": {
+   "pairs": 20,
+   "first": 4,
+   "second": 7
+  }
+ }
+]
