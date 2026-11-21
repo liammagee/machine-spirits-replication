@@ -1,0 +1,282 @@
+[
+ {
+  "what": "GPT-6.1 Terra, humour, first reply, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/terra-first/coding/",
+  "strategy": "humour",
+  "version": "present",
+  "printed": {
+   "replies": 31,
+   "both": 6
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, humour, first reply, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/terra-first/coding/",
+  "strategy": "humour",
+  "version": "C",
+  "printed": {
+   "replies": 32,
+   "both": 32
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, humour, first reply, the other two new wordings",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/terra-first/coding/",
+  "strategy": "humour",
+  "version": "A",
+  "printed": {
+   "replies": 32,
+   "both": 16
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, humour, first reply, the other two new wordings",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/terra-first/coding/",
+  "strategy": "humour",
+  "version": "B",
+  "printed": {
+   "replies": 32,
+   "both": 21
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, gravity, first reply, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/terra-first/coding/",
+  "strategy": "gravity",
+  "version": "present",
+  "printed": {
+   "replies": 32,
+   "both": 11
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, gravity, first reply, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/terra-first/coding/",
+  "strategy": "gravity",
+  "version": "A",
+  "printed": {
+   "replies": 32,
+   "both": 32
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, reverse advocacy, first reply, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/terra-first/coding/",
+  "strategy": "reverse-advocacy",
+  "version": "present",
+  "printed": {
+   "replies": 31,
+   "both": 10
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, reverse advocacy, first reply, best new wording",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/terra-first/coding/",
+  "strategy": "reverse-advocacy",
+  "version": "C",
+  "printed": {
+   "replies": 31,
+   "both": 11
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, sarcasm, later replies, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/later/coding/",
+  "strategy": "sarcasm",
+  "version": "present",
+  "printed": {
+   "replies": 31,
+   "both": 0
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, sarcasm, later replies, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/later/coding/",
+  "strategy": "sarcasm",
+  "version": "A",
+  "printed": {
+   "replies": 32,
+   "both": 24
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, challenge, later replies, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/later/coding/",
+  "strategy": "challenge",
+  "version": "present",
+  "printed": {
+   "replies": 36,
+   "both": 10,
+   "opus": 21,
+   "sol": 10
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, challenge, later replies, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/later/coding/",
+  "strategy": "challenge",
+  "version": "A",
+  "printed": {
+   "replies": 36,
+   "both": 25,
+   "opus": 31,
+   "sol": 25
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, parable, later replies, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/later/coding/",
+  "strategy": "parable",
+  "version": "present",
+  "printed": {
+   "replies": 36,
+   "both": 14,
+   "opus": 19,
+   "sol": 18
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, parable, later replies, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/later/coding/",
+  "strategy": "parable",
+  "version": "A",
+  "printed": {
+   "replies": 35,
+   "both": 29,
+   "opus": 30,
+   "sol": 31
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, parable, later replies, the other two new wordings",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/later/coding/",
+  "strategy": "parable",
+  "version": "B",
+  "printed": {
+   "replies": 36,
+   "both": 13
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, parable, later replies, the other two new wordings",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/later/coding/",
+  "strategy": "parable",
+  "version": "C",
+  "printed": {
+   "replies": 36,
+   "both": 19
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, humour, first reply, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/sol-studio/sol-first/coding/",
+  "strategy": "humour",
+  "version": "present",
+  "printed": {
+   "replies": 20,
+   "both": 7
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, humour, first reply, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/sol-studio/sol-first/coding/",
+  "strategy": "humour",
+  "version": "C",
+  "printed": {
+   "replies": 20,
+   "both": 20
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, gravity, first reply, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/sol-studio/sol-first/coding/",
+  "strategy": "gravity",
+  "version": "present",
+  "printed": {
+   "replies": 20,
+   "both": 4
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, gravity, first reply, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording/runs/sol-studio/sol-first/coding/",
+  "strategy": "gravity",
+  "version": "A",
+  "printed": {
+   "replies": 20,
+   "both": 20
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, sarcasm, later replies, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording-sol-later/runs/run/coding/",
+  "strategy": "sarcasm",
+  "version": "present",
+  "printed": {
+   "replies": 12,
+   "both": 3,
+   "opus": 5,
+   "sol": 3
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, sarcasm, later replies, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording-sol-later/runs/run/coding/",
+  "strategy": "sarcasm",
+  "version": "A",
+  "printed": {
+   "replies": 14,
+   "both": 11,
+   "opus": 13,
+   "sol": 12
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, challenge, later replies, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording-sol-later/runs/run/coding/",
+  "strategy": "challenge",
+  "version": "present",
+  "printed": {
+   "replies": 19,
+   "both": 9,
+   "opus": 13,
+   "sol": 9
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, challenge, later replies, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording-sol-later/runs/run/coding/",
+  "strategy": "challenge",
+  "version": "A",
+  "printed": {
+   "replies": 17,
+   "both": 16,
+   "opus": 16,
+   "sol": 16
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, parable, later replies, present line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording-sol-later/runs/run/coding/",
+  "strategy": "parable",
+  "version": "present",
+  "printed": {
+   "replies": 20,
+   "both": 9,
+   "opus": 11,
+   "sol": 11
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, parable, later replies, new line",
+  "source": "31-finding-12-strategy-lines/20261115-strategy-line-wording-sol-later/runs/run/coding/",
+  "strategy": "parable",
+  "version": "A",
+  "printed": {
+   "replies": 20,
+   "both": 15,
+   "opus": 17,
+   "sol": 15
+  }
+ }
+]

@@ -1,0 +1,760 @@
+[
+ {
+  "where": "Finding 9",
+  "what": "Layered above plain, the 12 new pairs",
+  "kind": "sign",
+  "a": "20261113-plain-tutor-comparison/RR",
+  "b": "20261113-plain-tutor-comparison/PT",
+  "min_draw": 23,
+  "printed": {
+   "matched": 12,
+   "discordant": [
+    [
+     10,
+     0
+    ],
+    [
+     11,
+     0
+    ]
+   ],
+   "p": [
+    "0.001",
+    "0.0005"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Coder agreement, plain, told and layered arms",
+  "kind": "kappa",
+  "sets": [
+   "20261113-plain-tutor-comparison/PT",
+   "20261113-plain-tutor-comparison/TR",
+   "20261113-plain-tutor-comparison/RR"
+  ],
+  "printed": {
+   "lessons": 60,
+   "kappa": "0.86"
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Told (T) against layered (L)",
+  "kind": "fisher",
+  "a": "20261113-plain-tutor-comparison/TR",
+  "b": "20261113-plain-tutor-comparison/RR",
+  "printed": {
+   "p": [
+    "0.001",
+    "0.00007"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Told (T) against plain (P)",
+  "kind": "fisher",
+  "a": "20261113-plain-tutor-comparison/TR",
+  "b": "20261113-plain-tutor-comparison/PT",
+  "printed": {
+   "p": [
+    "0.34",
+    "0.18"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Given part two of Appendix L (A) against plain",
+  "kind": "fisher",
+  "a": "20261114-plain-tutor-appendix-l/AL",
+  "b": "20261113-plain-tutor-comparison/PT",
+  "printed": {
+   "p": [
+    "0.001",
+    "0.00004"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Arm A against layered",
+  "kind": "fisher",
+  "a": "20261114-plain-tutor-appendix-l/AL",
+  "b": "20261113-plain-tutor-comparison/RR",
+  "printed": {
+   "p": [
+    "0.32",
+    "0.24"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Coder agreement, arm A",
+  "kind": "kappa",
+  "sets": [
+   "20261114-plain-tutor-appendix-l/AL"
+  ],
+  "printed": {
+   "lessons": 20,
+   "agree": 17,
+   "kappa": "0.69"
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Arm A, lessons with a change, resisting learner",
+  "kind": "count",
+  "set": "20261114-plain-tutor-appendix-l/AL",
+  "learner": "R",
+  "printed": {
+   "lessons": [
+    2,
+    2
+   ],
+   "of": 5
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Layered arm, lessons with a change, resisting learner",
+  "kind": "count",
+  "set": "20261113-plain-tutor-comparison/RR",
+  "learner": "R",
+  "printed": {
+   "lessons": [
+    5,
+    5
+   ],
+   "of": 5
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Arm A against plain, Claude Sonnet 5.5 tutor",
+  "kind": "fisher",
+  "a": "20261114-appendix-l-other-tutors/AS",
+  "b": "20261114-paper1-sonnet-reproduction/PS",
+  "printed": {
+   "p": [
+    "0.00009",
+    "0.000003"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Arm A against layered, Claude Sonnet 5.5 tutor",
+  "kind": "fisher",
+  "a": "20261114-appendix-l-other-tutors/AS",
+  "b": "20261114-paper1-sonnet-reproduction/SNR",
+  "printed": {
+   "p": [
+    "0.60",
+    "0.49"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Arm A against plain, GPT-6.1 Sol tutor",
+  "kind": "fisher",
+  "a": "20261114-appendix-l-other-tutors/SAL",
+  "b": "20261114-paper1-sol-reproduction/SPT",
+  "printed": {
+   "p": [
+    "0.006",
+    "0.010"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Arm A against layered, GPT-6.1 Sol tutor",
+  "kind": "fisher",
+  "a": "20261114-appendix-l-other-tutors/SAL",
+  "b": "20261114-paper1-sol-reproduction/SLR",
+  "printed": {
+   "p": [
+    "0.001",
+    "0.008"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Arm A, GPT-6.1 Sol tutor, lessons with a change, resisting learner",
+  "kind": "count",
+  "set": "20261114-appendix-l-other-tutors/SAL",
+  "learner": "R",
+  "printed": {
+   "lessons": [
+    1,
+    1
+   ],
+   "of": 5
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL2 against plain",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-present-20261117/AL2",
+  "b": "20261113-plain-tutor-comparison/PT",
+  "printed": {
+   "p": [
+    "0.34",
+    "0.18"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL2 against layered",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-present-20261117/AL2",
+  "b": "20261113-plain-tutor-comparison/RR",
+  "printed": {
+   "p": [
+    "0.001",
+    "0.00007"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL2 against arm A",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-present-20261117/AL2",
+  "b": "20261114-plain-tutor-appendix-l/AL",
+  "printed": {
+   "p": [
+    "0.048",
+    "0.010"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL3 against plain",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-whole-20261117/AL3",
+  "b": "20261113-plain-tutor-comparison/PT",
+  "printed": {
+   "p": [
+    "0.008",
+    "0.044"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL3 against arm A",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-whole-20261117/AL3",
+  "b": "20261114-plain-tutor-appendix-l/AL",
+  "printed": {
+   "p": [
+    "0.53",
+    "0.026"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL4 against arm A",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-routed-20261118/AL4",
+  "b": "20261114-plain-tutor-appendix-l/AL",
+  "printed": {
+   "p": [
+    "0.006",
+    "0.026"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL4 against plain",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-routed-20261118/AL4",
+  "b": "20261113-plain-tutor-comparison/PT",
+  "printed": {
+   "p": [
+    "1.0",
+    "0.09"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Coder agreement, AL4",
+  "kind": "kappa",
+  "sets": [
+   "plain-tutor-appendix-l-routed-20261118/AL4"
+  ],
+  "printed": {
+   "lessons": 20,
+   "agree": 14,
+   "kappa": "0.12"
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL5 against plain",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-routing-only-20261118/AL5",
+  "b": "20261113-plain-tutor-comparison/PT",
+  "printed": {
+   "p": [
+    "0.008",
+    "0.008"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL5 against AL3",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-routing-only-20261118/AL5",
+  "b": "plain-tutor-appendix-l-whole-20261117/AL3",
+  "printed": {
+   "p": [
+    "1.0",
+    "0.51"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "AL5 against arm A",
+  "kind": "fisher",
+  "a": "plain-tutor-appendix-l-routing-only-20261118/AL5",
+  "b": "20261114-plain-tutor-appendix-l/AL",
+  "printed": {
+   "p": [
+    "0.75",
+    "0.20"
+   ]
+  }
+ },
+ {
+  "where": "Finding 9",
+  "what": "Coder agreement, AL5",
+  "kind": "kappa",
+  "sets": [
+   "plain-tutor-appendix-l-routing-only-20261118/AL5"
+  ],
+  "printed": {
+   "lessons": 20,
+   "agree": 20,
+   "kappa": "1.0"
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Layered above plain, Claude Sonnet 5.5 tutor",
+  "kind": "sign",
+  "a": "20261114-paper1-sonnet-reproduction/SNR",
+  "b": "20261114-paper1-sonnet-reproduction/PS",
+  "printed": {
+   "matched": 19,
+   "discordant": [
+    [
+     14,
+     0
+    ],
+    [
+     16,
+     0
+    ]
+   ],
+   "p": [
+    "0.00006",
+    "0.00002"
+   ]
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Told against layered, Claude Sonnet 5.5 tutor",
+  "kind": "fisher",
+  "a": "20261114-paper1-sonnet-told/TS",
+  "b": "20261114-paper1-sonnet-reproduction/SNR",
+  "printed": {
+   "p": [
+    "0.001",
+    "0.001"
+   ]
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Told against plain, Claude Sonnet 5.5 tutor",
+  "kind": "fisher",
+  "a": "20261114-paper1-sonnet-told/TS",
+  "b": "20261114-paper1-sonnet-reproduction/PS",
+  "printed": {
+   "p": [
+    "0.18",
+    "0.019"
+   ]
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Layered Sonnet tutor, lessons with a change of tone",
+  "kind": "count",
+  "set": "20261114-paper1-sonnet-reproduction/SNR",
+  "measure": "tone",
+  "printed": {
+   "lessons": [
+    13,
+    15
+   ],
+   "of": 20
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Coder agreement, Claude Sonnet 5.5 plain, layered and told arms",
+  "kind": "kappa",
+  "sets": [
+   "20261114-paper1-sonnet-reproduction/PS",
+   "20261114-paper1-sonnet-reproduction/SNR",
+   "20261114-paper1-sonnet-told/TS"
+  ],
+  "printed": {
+   "lessons": 59,
+   "kappa": "0.79"
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Sonnet's told arm against Terra's",
+  "kind": "fisher",
+  "a": "20261114-paper1-sonnet-told/TS",
+  "b": "20261113-plain-tutor-comparison/TR",
+  "printed": {
+   "p": [
+    "0.18",
+    "0.11"
+   ]
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Layered above plain, GPT-6.1 Sol tutor",
+  "kind": "sign",
+  "a": "20261114-paper1-sol-reproduction/SLR",
+  "b": "20261114-paper1-sol-reproduction/SPT",
+  "printed": {
+   "matched": 20,
+   "discordant": [
+    [
+     18,
+     0
+    ],
+    [
+     16,
+     0
+    ]
+   ],
+   "p": [
+    "0.000004",
+    "0.00002"
+   ]
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Told against layered, GPT-6.1 Sol tutor",
+  "kind": "fisher",
+  "a": "20261114-paper1-sol-reproduction/STR",
+  "b": "20261114-paper1-sol-reproduction/SLR",
+  "printed": {
+   "p": [
+    "0.00001",
+    "0.00001"
+   ]
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Told against plain, GPT-6.1 Sol tutor",
+  "kind": "fisher",
+  "a": "20261114-paper1-sol-reproduction/STR",
+  "b": "20261114-paper1-sol-reproduction/SPT",
+  "printed": {
+   "p": [
+    "0.13",
+    "0.48"
+   ]
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Told arm, GPT-6.1 Sol tutor, lessons with a change of tone",
+  "kind": "count",
+  "set": "20261114-paper1-sol-reproduction/STR",
+  "measure": "tone",
+  "printed": {
+   "lessons": [
+    0,
+    0
+   ],
+   "of": 20
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Coder agreement, GPT-6.1 Sol plain, told and layered arms",
+  "kind": "kappa",
+  "sets": [
+   "20261114-paper1-sol-reproduction/SPT",
+   "20261114-paper1-sol-reproduction/STR",
+   "20261114-paper1-sol-reproduction/SLR"
+  ],
+  "printed": {
+   "lessons": 60,
+   "kappa": "0.87"
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Arm A, Claude Sonnet 5.5 tutor, lessons with a change of tone",
+  "kind": "count",
+  "set": "20261114-appendix-l-other-tutors/AS",
+  "measure": "tone",
+  "printed": {
+   "lessons": [
+    5,
+    10
+   ],
+   "of": 20
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Arm A, Claude Sonnet 5.5 tutor, lessons with a change, resisting learner",
+  "kind": "count",
+  "set": "20261114-appendix-l-other-tutors/AS",
+  "learner": "R",
+  "printed": {
+   "lessons": [
+    4,
+    5
+   ],
+   "of": 5
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Coder agreement, arm A, Claude Sonnet 5.5 tutor",
+  "kind": "kappa",
+  "sets": [
+   "20261114-appendix-l-other-tutors/AS"
+  ],
+  "printed": {
+   "lessons": 20,
+   "agree": 17,
+   "kappa": "0.32"
+  }
+ },
+ {
+  "where": "Appendix J",
+  "what": "Coder agreement, arm A, GPT-6.1 Sol tutor",
+  "kind": "kappa",
+  "sets": [
+   "20261114-appendix-l-other-tutors/SAL"
+  ],
+  "printed": {
+   "lessons": 20,
+   "kappa": "0.79"
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "what": "Layered above plain, Gemini 4 Hydrogen tutor",
+  "kind": "sign",
+  "a": "20261114-actor-texts-gemini/GMR",
+  "b": "20261114-actor-texts-gemini/GPT",
+  "printed": {
+   "discordant": [
+    [
+     18,
+     0
+    ],
+    [
+     18,
+     0
+    ]
+   ],
+   "p": [
+    "0.000004",
+    "0.000004"
+   ]
+  }
+ },
+ {
+  "where": "Finding 10",
+  "what": "Layered above the arm without the playwright's call between turns (NP)",
+  "kind": "sign",
+  "a": "20261114-layer-removal/RR",
+  "b": "20261114-layer-removal/NP",
+  "printed": {
+   "matched": 20,
+   "p": [
+    "0.002",
+    "0.0001"
+   ]
+  }
+ },
+ {
+  "where": "Finding 10",
+  "what": "Layered above the arm without the review of drafts (NV)",
+  "kind": "sign",
+  "a": "20261114-layer-removal/RR",
+  "b": "20261114-layer-removal/NV",
+  "printed": {
+   "matched": 20,
+   "p": [
+    "1.0",
+    "0.88"
+   ]
+  }
+ },
+ {
+  "where": "Finding 10",
+  "what": "Coder agreement, layered, NV and NP arms",
+  "kind": "kappa",
+  "sets": [
+   "20261114-layer-removal/RR",
+   "20261114-layer-removal/NV",
+   "20261114-layer-removal/NP"
+  ],
+  "printed": {
+   "lessons": 60,
+   "kappa": "0.86"
+  }
+ },
+ {
+  "where": "Finding 10",
+  "what": "NP, lessons with a change, confused learner",
+  "kind": "count",
+  "set": "20261114-layer-removal/NP",
+  "learner": "C",
+  "printed": {
+   "lessons": [
+    3,
+    3
+   ],
+   "of": 5
+  }
+ },
+ {
+  "where": "Finding 11",
+  "what": "Four-part above plain",
+  "kind": "sign",
+  "a": "20261115-four-part-tutor/FP",
+  "b": "20261115-four-part-tutor/PT",
+  "printed": {
+   "matched": 20,
+   "discordant": [
+    [
+     15,
+     0
+    ],
+    [
+     16,
+     0
+    ]
+   ],
+   "p": [
+    "< 0.0001",
+    "< 0.0001"
+   ]
+  }
+ },
+ {
+  "where": "Finding 11",
+  "what": "Coder agreement, plain, four-part and layered arms",
+  "kind": "kappa",
+  "sets": [
+   "20261115-four-part-tutor/PT",
+   "20261115-four-part-tutor/FP",
+   "20261115-four-part-tutor/RR"
+  ],
+  "printed": {
+   "lessons": 60,
+   "kappa": "0.80"
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "what": "Without the actor's texts, GPT-6.1 Terra, lessons with a change",
+  "kind": "count",
+  "set": "20261114-actor-texts-whole-lessons/NAT",
+  "printed": {
+   "lessons": [
+    18,
+    20
+   ],
+   "of": 20
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "what": "Without the actor's texts, Claude Sonnet 5.5, lessons with a change",
+  "kind": "count",
+  "set": "20261114-actor-texts-whole-lessons/NAS",
+  "printed": {
+   "lessons": [
+    17,
+    20
+   ],
+   "of": 20
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "what": "Without the actor's texts, GPT-6.1 Sol, lessons with a change",
+  "kind": "count",
+  "set": "20261114-actor-texts-whole-lessons/NAL",
+  "printed": {
+   "lessons": [
+    17,
+    20
+   ],
+   "of": 20
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "what": "Without the actor's texts, Gemini 4 Hydrogen, lessons with a change",
+  "kind": "count",
+  "set": "20261114-actor-texts-gemini-without/NAG",
+  "printed": {
+   "lessons": [
+    20,
+    20
+   ],
+   "of": 20
+  }
+ },
+ {
+  "where": "The layered tutor without the actor's texts",
+  "what": "Without the actor's texts, the 20 further Terra lessons, lessons with a change",
+  "kind": "count",
+  "set": "20261114-actor-texts-terra-extension/NAT",
+  "printed": {
+   "lessons": [
+    18,
+    18
+   ],
+   "of": 20
+  }
+ }
+]

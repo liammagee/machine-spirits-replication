@@ -1,0 +1,185 @@
+[
+ {
+  "what": "Replies coded by both coders, GPT-6.1 Terra, Claude Sonnet 5.5 and GPT-6.1 Sol",
+  "kind": "total",
+  "sources": [
+   "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-pilot/",
+   "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-sonnet/",
+   "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-sol/"
+  ],
+  "printed": 752
+ },
+ {
+  "what": "GPT-6.1 Terra, replies under a disruptive strategy, carried out by both coders (the fixed test)",
+  "kind": "delivery",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-pilot/",
+  "strategies": "disruptive",
+  "printed": {
+   "layered": [
+    72,
+    161
+   ],
+   "without": [
+    68,
+    146
+   ],
+   "p": "0.67"
+  }
+ },
+ {
+  "what": "Claude Sonnet 5.5, replies under a disruptive strategy",
+  "kind": "delivery",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-sonnet/",
+  "strategies": "disruptive",
+  "printed": {
+   "layered": [
+    49,
+    64
+   ],
+   "without": [
+    43,
+    67
+   ]
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, replies under a disruptive strategy",
+  "kind": "delivery",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-sol/",
+  "strategies": "disruptive",
+  "printed": {
+   "layered": [
+    50,
+    74
+   ],
+   "without": [
+    43,
+    72
+   ]
+  }
+ },
+ {
+  "what": "GPT-6.1 Sol, first replies under a disruptive strategy",
+  "kind": "delivery",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-sol/",
+  "strategies": "disruptive",
+  "position": "first",
+  "printed": {
+   "layered": [
+    27,
+    27
+   ],
+   "without": [
+    23,
+    28
+   ],
+   "p": "0.028"
+  }
+ },
+ {
+  "what": "Claude Sonnet 5.5, later replies under a disruptive strategy",
+  "kind": "delivery",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-sonnet/",
+  "strategies": "disruptive",
+  "position": "later",
+  "printed": {
+   "layered": [
+    25,
+    39
+   ],
+   "without": [
+    16,
+    39
+   ],
+   "p": "0.035"
+  }
+ },
+ {
+  "what": "Claude Sonnet 5.5, later replies under the disruptive strategies other than sarcasm",
+  "kind": "delivery",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-sonnet/",
+  "strategies": "other disruptive",
+  "position": "later",
+  "printed": {
+   "layered": [
+    22,
+    34
+   ],
+   "without": [
+    12,
+    34
+   ],
+   "p": "0.014"
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, first sarcastic reply, both coders",
+  "kind": "delivery",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-pilot/",
+  "strategies": "sarcasm",
+  "position": "first",
+  "printed": {
+   "layered": [
+    9,
+    11
+   ],
+   "without": [
+    2,
+    15
+   ],
+   "p": "0.001"
+  }
+ },
+ {
+  "what": "GPT-6.1 Terra, first sarcastic reply, Opus coder",
+  "kind": "delivery",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/delivery-pilot/",
+  "strategies": "sarcasm",
+  "position": "first",
+  "coder": "opus-medium",
+  "printed": {
+   "layered": [
+    11,
+    11
+   ],
+   "without": [
+    10,
+    15
+   ]
+  }
+ },
+ {
+  "what": "Gemini 4 Hydrogen, replies under a disruptive strategy",
+  "kind": "delivery",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/delivery/",
+  "strategies": "disruptive",
+  "printed": {
+   "layered": [
+    64,
+    79
+   ],
+   "without": [
+    52,
+    68
+   ],
+   "p": "0.32"
+  }
+ },
+ {
+  "what": "Gemini 4 Hydrogen, first sarcastic reply",
+  "kind": "delivery",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/delivery/",
+  "strategies": "sarcasm",
+  "position": "first",
+  "printed": {
+   "layered": [
+    6,
+    6
+   ],
+   "without": [
+    5,
+    5
+   ]
+  }
+ }
+]

@@ -17,6 +17,7 @@ from pathlib import Path
 sys.dont_write_bytecode = True
 from scripts.event_counts import additional_counts
 from scripts.cited_counts import calculate, observations
+from scripts.change_tests import check, delivery_check, delivery_rows, line_counts, load_codes, pair_readings, sign_test, same_p, verdicts
 
 ROOT = Path(__file__).resolve().parent
 REFERENCE = ROOT / 'reference'
@@ -113,35 +114,90 @@ def changes(out):
     print(f'Findings 9–11: {len(expected)} paired coder counts match the printed comparisons.')
 
 
+def change_tests(out):
+    """Sign tests, Fisher tests, coder agreement and counts by learner type printed for Findings 9 to 11."""
+    with zipfile.ZipFile(DATA / 'strategy-change-codes.zip') as z:
+        studies = load_codes(z, load(REFERENCE / 'code-sources.json'))
+    sources = load(REFERENCE / 'without-actor-code-sources.json')
+    with zipfile.ZipFile(DATA / 'without-actor-texts-codes.zip') as z:
+        for member, source in sources.items():
+            require(digest(z.read(member)) == source['sha256'], f'Code differs: {member}')
+        studies.update(load_codes(z, sources))
+    specs = load(REFERENCE / 'findings-9-11-tests.json')
+    rows = []
+    for spec in specs:
+        computed, ok = check(spec, studies)
+        require(ok, f"{spec['where']}, {spec['what']}: {computed} versus {spec['printed']}")
+        rows.append([spec['where'], spec['what'], spec['kind'], json.dumps(spec['printed']), json.dumps(computed)])
+    save_rows(out/'findings-9-11-tests.csv', ['where','statistic','kind','printed','computed'], rows)
+    print(f'Findings 9–11: {len(specs)} printed tests, agreement figures and counts match the saved codes.')
+
+
+def drama_pairs(out):
+    """Drama-pair results printed for Findings 9 to 11, from the saved readings of both reader families."""
+    specs = load(REFERENCE / 'findings-9-11-drama.json')
+    sources = load(REFERENCE / 'drama-sources.json')
+    rows = []
+    with zipfile.ZipFile(DATA / 'drama-readings-9-11.zip') as z:
+        require(set(z.namelist()) == set(sources), 'Drama readings differ from the listed files')
+        for member, expected in sources.items():
+            require(digest(z.read(member)) == expected, f'Drama reading differs: {member}')
+        for spec in specs:
+            counts = verdicts(pair_readings(z, spec['source'])[spec['contrast']])
+            printed = dict(spec['printed'])
+            p = printed.pop('p_two_sided', None)
+            require(all(counts[k] == v for k, v in printed.items()), f"{spec['where']}, {spec['first']} against {spec['second']}: {counts} versus {printed}")
+            require(p is None or same_p(min(1, 2*sign_test(max(counts['first'], counts['second']), min(counts['first'], counts['second']))), p), f"{spec['where']}: two-sided p differs from {p}")
+            rows.append([spec['where'], spec['first'], spec['second'], *counts.values()])
+    save_rows(out/'findings-9-11-drama.csv', ['where','first_lesson','second_lesson','pairs','first_preferred','second_preferred','tie','no_verdict'], rows)
+    print(f'Findings 9–11: {len(specs)} drama-pair results match the saved readings.')
+
+
+def without_actor_delivery(out):
+    """Replies carried out, with and without the actor's texts, from the saved delivery codes."""
+    specs = load(REFERENCE / 'without-actor-texts-delivery.json')
+    sources = load(REFERENCE / 'delivery-sources.json')
+    rows, cache = [], {}
+    with zipfile.ZipFile(DATA / 'without-actor-texts-codes.zip') as z:
+        for member, expected in sources.items():
+            require(digest(z.read(member)) == expected, f'Delivery code differs: {member}')
+        def coded(source):
+            if source not in cache:
+                cache[source] = delivery_rows(z, source)
+            return cache[source]
+        for spec in specs:
+            if spec['kind'] == 'total':
+                computed = sum(len(coded(s)) for s in spec['sources'])
+                ok = computed == spec['printed']
+            else:
+                computed, ok = delivery_check(spec, coded(spec['source']))
+            require(ok, f"{spec['what']}: {computed} versus {spec['printed']}")
+            rows.append([spec['what'], json.dumps(spec['printed']), json.dumps(computed)])
+    save_rows(out/'without-actor-texts-delivery.csv', ['count','printed','computed'], rows)
+    print(f"Without the actor's texts: {len(specs)} printed delivery counts match the saved codes.")
+
+
+def strategy_lines(out):
+    """Finding 12: replies carried out at saved moments under the present and the new strategy lines."""
+    specs = load(REFERENCE / 'finding-12-strategy-lines.json')
+    rows = []
+    with zipfile.ZipFile(DATA / 'strategy-line-codes.zip') as z:
+        for member, expected in load(REFERENCE / 'strategy-line-sources.json').items():
+            require(digest(z.read(member)) == expected, f'Strategy-line code differs: {member}')
+        for spec in specs:
+            counts = line_counts(z, spec['source'], spec['strategy'], spec['version'])
+            require(all(counts[k] == v for k, v in spec['printed'].items()), f"{spec['what']}: {counts} versus {spec['printed']}")
+            rows.append([spec['what'], spec['version'], *counts.values()])
+    save_rows(out/'finding-12-strategy-lines.csv', ['line','wording','replies','both_coders','opus','sol'], rows)
+    print(f'Finding 12: {len(specs)} strategy-line counts at saved moments match the saved codes.')
+
+
 def drama_votes(z, source):
     if source.endswith('.json'):
         records = json.loads(z.read(source))
         votes = [list(row['v'].values()) for row in records]
     else:
-        keys = json.loads(z.read(source+'key-private.json'))
-        votes = []
-        for pair, key in keys.items():
-            readings = []
-            for coder in ('opus','sol'):
-                for order in ('AB','BA'):
-                    base = source+'runs/'+pair.removesuffix(':drama')+'--drama-'+coder+'-'+order
-                    for suffix in ('','.retry'):
-                        member = base+suffix+'/result.json'
-                        if member not in z.NameToInfo:
-                            continue
-                        validation = base+suffix+'/validation.json'
-                        if validation in z.NameToInfo and json.loads(z.read(validation))['status'] != 'structurally_checked':
-                            continue
-                        comparison = json.loads(z.read(member))['comparison']
-                        side = comparison[:1] if comparison.startswith(('A ','B ')) else 'tie'
-                        on = key['onSideAB']
-                        if order == 'BA':
-                            on = 'A' if on == 'B' else 'B'
-                        readings.append('tie' if side == 'tie' else 'on' if side == on else 'off')
-                        break
-                    else:
-                        readings.append('missing')
-            votes.append(readings)
+        votes = [readings for group in pair_readings(z, source).values() for readings in group]
     require(len(votes)==20 and all(len(v)==4 for v in votes), f'Expected 20 pairs with four reading slots: {source}')
     hard = sum(set(v) == {'on'} for v in votes)
     learned = sum(set(v) == {'off'} for v in votes)
@@ -189,6 +245,20 @@ def deposit_checks(deposit, out, work):
         require(recovered == json.load(file), 'Observation records differ from the full deposit')
     calculate(recovered)
     print('The full deposit reproduces the observation records for all six cited entries.')
+    with zipfile.ZipFile(DATA / 'drama-readings-9-11.zip') as z:
+        for member in z.namelist():
+            require((deposit / member).read_bytes() == z.read(member), f'Drama reading differs from the full deposit: {member}')
+        print(f'All {len(z.namelist())} drama reading files for Findings 9–11 are identical to the full deposit.')
+    with zipfile.ZipFile(DATA / 'without-actor-texts-codes.zip') as z:
+        for member, source in load(REFERENCE / 'without-actor-code-sources.json').items():
+            require((deposit / source['source']).read_bytes() == z.read(member), f'Code differs from the full deposit: {member}')
+        for member in load(REFERENCE / 'delivery-sources.json'):
+            require((deposit / member).read_bytes() == z.read(member), f'Delivery code differs from the full deposit: {member}')
+        print(f"All {len(z.namelist())} code files for the lessons without the actor's texts are identical to the full deposit.")
+    with zipfile.ZipFile(DATA / 'strategy-line-codes.zip') as z:
+        for member in z.namelist():
+            require((deposit / member).read_bytes() == z.read(member), f'Strategy-line code differs from the full deposit: {member}')
+        print(f'All {len(z.namelist())} strategy-line code files are identical to the full deposit.')
 
 
 def main():
@@ -212,6 +282,10 @@ def main():
         print('All six cited entries match their observation records. All 678 table entries are accounted for.')
         whole_lessons(result,work)
         changes(result)
+        change_tests(result)
+        drama_pairs(result)
+        without_actor_delivery(result)
+        strategy_lines(result)
         final_tests(result)
         if args.figures:
             figures(result,work)

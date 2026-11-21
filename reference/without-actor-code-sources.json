@@ -1,0 +1,1002 @@
+{
+ "20261114-actor-texts-gemini-without/H-NAGB-l22.opus-medium.json": {
+  "sha256": "166256a01244c4615f790cccbeedfff45a7c442ad25e6d6a8b7a9d1c659d1bfb",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s0bad62a1.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/H-NAGB-l22.sol-medium.json": {
+  "sha256": "d8b142aa651db309a0aef90d772a4f25efdc6adc159474cd9fdb17dffd33f328",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s0bad62a1.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/H-NAGC-l21.opus-medium.json": {
+  "sha256": "b3b06629b6496184c6346735133e7474f1c18f5ad375db59780520bff04ba594",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sbe3d2a41.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/H-NAGC-l21.sol-medium.json": {
+  "sha256": "23b756f91b35399c23ff3154e5997223505b26ca0ff9d7b23dcfc787aa249d7c",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sbe3d2a41.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/H-NAGC-l25.opus-medium.json": {
+  "sha256": "58255017d3731d14af2b415690c600bb510ad1b67818bf6bb23d9b976e24a7be",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s41851ff9.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/H-NAGC-l25.sol-medium.json": {
+  "sha256": "c61cae6282e4a081f24e8f6c1308f597a2298c9acaba3d32b2eceeb2480d7b4e",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s41851ff9.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/H-NAGO-l23.opus-medium.json": {
+  "sha256": "7ec2ff9a23843b83b037cc17855eaca6e4322b0698901e0952a9ddd7ae4932cf",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sf10c9eb6.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/H-NAGO-l23.sol-medium.json": {
+  "sha256": "e910578c44f0c2946e6623def45983a0fd699fd862ad339cf81828fc8668f8f6",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sf10c9eb6.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/H-NAGR-l24.opus-medium.json": {
+  "sha256": "21998066c6bbb40f18ac399c94a8556eb4aad036c43596cb78212ce622062708",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sc40c036e.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/H-NAGR-l24.sol-medium.json": {
+  "sha256": "0d0ad299f8c7a1f3344ddcc4b857841cff9bf2ed432b04ae3a0c1db8a1868bb5",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sc40c036e.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGB-l23.opus-medium.json": {
+  "sha256": "311cd33a8fba72dac3d4dd716249a38c5ef8e015185483d8adbdec0c1c5f546a",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s9d94e88e.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGB-l23.sol-medium.json": {
+  "sha256": "e52c5bffa8893dc70d6462a734e8c3f7d3346984a321cab43a6176f8e179ec8d",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s9d94e88e.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGC-l22.opus-medium.json": {
+  "sha256": "2d2b168ab6dbbf7a76a033583a5e9240e5c459d1704f5b815af2957d2613c63b",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s70017bba.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGC-l22.sol-medium.json": {
+  "sha256": "98a495bc453175efb379df4a35bd8ccb8017f32acdd4b59c835b5ad93710b91e",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s70017bba.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGO-l24.opus-medium.json": {
+  "sha256": "6940ef5f724fe710afd8bec303cfb4f8ce461620993c0af61348a9b288721ddb",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s1825fa1d.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGO-l24.sol-medium.json": {
+  "sha256": "e11b50ed22b8aa50aafabeec5eb34d1c18253d18c48f9802233193fa75679cfd",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s1825fa1d.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGR-l21.opus-medium.json": {
+  "sha256": "d497f8c6f61fc2449755162284c58fa19cae49b8ff37628d5b83beadcceeffe6",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s741986a2.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGR-l21.sol-medium.json": {
+  "sha256": "c9e533438b2c61f802af4c0b71b3e7e2a65fd30515c487ab189f5c4afcfd19aa",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s741986a2.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGR-l25.opus-medium.json": {
+  "sha256": "3ce63b3cb167930a32aada4a8d3cef908e04c7cd003b5932eb180743af61baab",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s0d751034.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/M-NAGR-l25.sol-medium.json": {
+  "sha256": "ac68722d9886f5871578b02740d558fa9fdf944db16f7bd512124c4b3f3d2773",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s0d751034.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGB-l21.opus-medium.json": {
+  "sha256": "ebadc389f38837abb3a4f9c8539ef26c6f3cffc42e612383e77127de9b40d3c2",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s1a4f997c.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGB-l21.sol-medium.json": {
+  "sha256": "2826428ce541c45246a2c0f7e63e5b90786620035835f97e7dff586a04fc7a82",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s1a4f997c.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGB-l25.opus-medium.json": {
+  "sha256": "ff64c0ad67adecbc4b2b612571718203df59a1214a7abac8fd02bcf521971528",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s3d47e93c.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGB-l25.sol-medium.json": {
+  "sha256": "082be6c43092fc9f8b2769293c4bead0eab179cab7c40187c00111bcec4ed057",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s3d47e93c.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGC-l24.opus-medium.json": {
+  "sha256": "6f0e6cc434d8577bb4f0eb8051efd68df87a08aae2fb3b1564185173aaa6a9b9",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s82435d53.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGC-l24.sol-medium.json": {
+  "sha256": "b8b3925b18f0caf6e5d88feaa69aa9f4a72e5ff88c633e8214c3f94e2fa697bb",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s82435d53.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGO-l22.opus-medium.json": {
+  "sha256": "13c4f57fe1b8cea83ec41eb31f704ca37b4c4164dbad3421f7fc6dae95c5306a",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s053ec84a.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGO-l22.sol-medium.json": {
+  "sha256": "e28ea8c12e3682c4c5dbc7b3c39eea47cd0ab665dfcb4e6a66b1d35e60b2a936",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s053ec84a.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGR-l23.opus-medium.json": {
+  "sha256": "64b18aa491bf999a5a6ec970e71be15504795df33f7addc478b48e94dd3b3f88",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sa8f1513e.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/P-NAGR-l23.sol-medium.json": {
+  "sha256": "fb990f6ac1ef921a1ccc032aa9895f07cf8b3e6f946f2c5aa993dd365e8b0f7d",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sa8f1513e.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGB-l24.opus-medium.json": {
+  "sha256": "81a1117d26989192b41658ab91011c0e479ecbf91427ce8f41d436d548233efc",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s7fd98f65.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGB-l24.sol-medium.json": {
+  "sha256": "aed13b03e237c0e4ad0b4c2a6a44a07329facd6d8ac284da01e850435043f078",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/s7fd98f65.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGC-l23.opus-medium.json": {
+  "sha256": "632dd7819b227c3d6bade32dce73632970c6e343e78932a51f2a1a8bfcabdc99",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sb66f1359.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGC-l23.sol-medium.json": {
+  "sha256": "c68b1357d3b0142d67b6e18b158651d4ab0bafd6f65471225726e9f94e817018",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sb66f1359.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGO-l21.opus-medium.json": {
+  "sha256": "3565e2cddc51b24b3dcb0259803448362f60badf23f90b5c789c8ca24ea89a23",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sf9d6cf46.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGO-l21.sol-medium.json": {
+  "sha256": "3bd077fdc526e57ac8b5f12263d01b48b3f3131f301d6bdb4f954a5d11bdb2a6",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sf9d6cf46.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGO-l25.opus-medium.json": {
+  "sha256": "abc86568ba15366e26e37ed195cce8905006c6e858b2d5232b1dedb636f7fd39",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sa1e0ea99.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGO-l25.sol-medium.json": {
+  "sha256": "94f07fd39bb7981c26b79019474c5b21a36e672694cee8f6be2b9f712ba82ecd",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sa1e0ea99.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGR-l22.opus-medium.json": {
+  "sha256": "f43d6fb58dc8037ff19ee51379a196349e7f50747e1e605ad6bf7ed01014b7f8",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sf9d9796d.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-gemini-without/SB-NAGR-l22.sol-medium.json": {
+  "sha256": "95a6fd9e1b72e0856d16f60025b291517b064553a498259d694bf42edf294052",
+  "source": "30-gemini-tutor/20261114-actor-texts-gemini/runs/coding/codes/sf9d9796d.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATB-l6.opus-medium.json": {
+  "sha256": "1205cdd5e6a6645019ef66a7125853e13396eaee7f2827903468c911b2434010",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/se4aa4030.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATB-l6.sol-medium.json": {
+  "sha256": "c952ea9e47fddf5317701690b60728a0992abeca80f7700cab2303e04686422f",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/se4aa4030.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATC-l5.opus-medium.json": {
+  "sha256": "4e9af71eb3f85632cd2bc77ae4f356e01c000e491c3736e484b58ec297d2abf2",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sa20b1f84.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATC-l5.sol-medium.json": {
+  "sha256": "8107ca91608153a7a7f2b95fc21f67a6703a87a6a800ab216ceeb96219d48326",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sa20b1f84.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATO-l7.opus-medium.json": {
+  "sha256": "c169f2475b382f1e8e774484b04cd3b33ac5ff8267919bdde8562a3f00c0f15f",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s886f3347.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATO-l7.sol-medium.json": {
+  "sha256": "03e6de58a0c3b84b6a0cc767d2198f904167b3ddff9f1ce33043c0aeeb9819e4",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s886f3347.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATR-l4.opus-medium.json": {
+  "sha256": "9bc82d92bcecea3b29b1b3e58a09c31e354106e5ff6d7ad545f287f30319ecec",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s44f7e8fa.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATR-l4.sol-medium.json": {
+  "sha256": "55fcff6714f79716354c268c730a0d5b70b6f10a5de61d5303d161f6d18a7b97",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s44f7e8fa.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATR-l8.opus-medium.json": {
+  "sha256": "ae0147ecb08bfbcd15451c59a8cd49964eb12867c055d7c199f102cbcafc3d4c",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s8496aaaa.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/H-NATR-l8.sol-medium.json": {
+  "sha256": "3f5a69d7f397a1c83a8d486f013c4bf9af0724c45757df80e7d84c7d151af72a",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s8496aaaa.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATB-l7.opus-medium.json": {
+  "sha256": "7de48142d751c8912548080b1c2162dbace5d75dccf86f99b9937e0618deae87",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s5c146a86.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATB-l7.sol-medium.json": {
+  "sha256": "cde36997ce10dc8fde0c927ac44ee13d0305fa5cf8f0f08814955d7ef1a8355b",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s5c146a86.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATC-l6.opus-medium.json": {
+  "sha256": "97669cca1713f33d72120108da51ebae0a3e5d8efd1d880f77d71792efec6b6b",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s0f8bdb7c.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATC-l6.sol-medium.json": {
+  "sha256": "478d696d6f2fd9f4f776b5549dd8b1bfba0359eb5b6d103ebb0e0677a72083fd",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s0f8bdb7c.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATO-l4.opus-medium.json": {
+  "sha256": "d36361cf945ed5f1fc0b13f6f83c8e55d61cad44911f1b3cb5020e3e39b223c1",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s6d4e1689.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATO-l4.sol-medium.json": {
+  "sha256": "d55757833043dafb58550646c9c771451cdc73d285c48e6ab0c314e49de01994",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s6d4e1689.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATO-l8.opus-medium.json": {
+  "sha256": "691924d80f8aca0217df853c536082fb558bd0e3f8833a3e9d9b48f4bf34848d",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s4d115185.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATO-l8.sol-medium.json": {
+  "sha256": "0a5bdd42c5d352c39e3e7a8e3c5b3bf108678c4ead1ae0ee2aad657fa9022485",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s4d115185.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATR-l5.opus-medium.json": {
+  "sha256": "4a2c875b01ec63e7cd598ce4309958b50b115330a50789d2486ac48c228630dc",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sc9c2e10c.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/M-NATR-l5.sol-medium.json": {
+  "sha256": "40fea1742aa5bee1a49078f270a21a1aaf4d36ed4032d33f73bd46153b1bb443",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sc9c2e10c.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATB-l5.opus-medium.json": {
+  "sha256": "280a557d197aaf6dea82fdc49125ebafa2db5cb39af4e93f46fb9357d728d2e7",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sb0da24ce.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATB-l5.sol-medium.json": {
+  "sha256": "c72e7106b619bdcb043df90843b694cb28aeb739be397cc24c72bbae60168f48",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sb0da24ce.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATC-l4.opus-medium.json": {
+  "sha256": "5a78590a86fb843d793c1b6ca61c71cff4e908e1dfdb50874a3e15b94091ae5e",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sf4edb24d.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATC-l4.sol-medium.json": {
+  "sha256": "939e26dc0127c3b4269c9d4c2d6d470be10bfdfb2d1aafce2cb796fea9ea1667",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sf4edb24d.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATC-l8.opus-medium.json": {
+  "sha256": "45db0ee2ff3d2b17e4efd7aa45a804d5dce20f29ac0741ac925a6b35bc2bb9fb",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/see38adeb.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATC-l8.sol-medium.json": {
+  "sha256": "07d0d1c88eeee72c5e856e669368183161a051ba480db1a30519e96bcb570e9c",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/see38adeb.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATO-l6.opus-medium.json": {
+  "sha256": "86930b860cc420cc040dc781c0cf0776d4ad5fcbbe439b6c70e7ea0fe0d669c3",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s20b0ca05.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATO-l6.sol-medium.json": {
+  "sha256": "168c3fa666db4db8a986795ee9ef4f0d67ffd6e328d4ce3e09f40dcf95160568",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s20b0ca05.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATR-l7.opus-medium.json": {
+  "sha256": "a848912d502f35c3c9c284cdb2f8e4fa78f171ad3f2f2bf4357e4f7e1491ddca",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sc5bcbd8f.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/P-NATR-l7.sol-medium.json": {
+  "sha256": "6481c420c065d5fb527e25c44a560e0992e18fbf304bdc070abf122ec3b55faa",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sc5bcbd8f.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATB-l4.opus-medium.json": {
+  "sha256": "f9e480354021dcd3a59dada363e8f220dbe247f706a9f6b11b3006cd6ca01693",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sea6fc58a.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATB-l4.sol-medium.json": {
+  "sha256": "ebcfc05925b8bbd201da1ced26d9b1d01b4c2d45b5501ffda86341936d0aeab2",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/sea6fc58a.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATB-l8.opus-medium.json": {
+  "sha256": "bfb83be0c33b35518ed1384791ae7b30fbc08f8bf28d5a4abf9ae15b0dc2ee46",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s25bd9faa.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATB-l8.sol-medium.json": {
+  "sha256": "0e428b14049c64fbabfbb8bc57d2d41f4131607b6ec3156dec4570463d58d3f4",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s25bd9faa.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATC-l7.opus-medium.json": {
+  "sha256": "bc0c554298f6adc1b934b08d1db76ca714da2445b2cfb54819e7593e5ccccb51",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s4c628ef9.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATC-l7.sol-medium.json": {
+  "sha256": "062c6d1de24afce66ede17f186898b4ba4ef743df2f1f9a12693130113a637b7",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s4c628ef9.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATO-l5.opus-medium.json": {
+  "sha256": "3cbcec690c1de630abfc213ac219e0f65eb223b627e6bd531cd87937c85cf2c3",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s4251951c.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATO-l5.sol-medium.json": {
+  "sha256": "3dd679c24f82cc92e53d5253d0cd6c917a7b808f49cfc642603d2f6bb842b3e8",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s4251951c.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATR-l6.opus-medium.json": {
+  "sha256": "4d49405763f16b00d541248356c3906baadb1343b49d3ee78372213666ea379a",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s7a200d30.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-terra-extension/SB-NATR-l6.sol-medium.json": {
+  "sha256": "a79c28771cfcc09d5da31cfba5263b924fd7f032a5c3836e831b780983a3a993",
+  "source": "26-without-actor-texts/20261114-actor-texts-terra-extension/runs/coding-NAT/codes/s7a200d30.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALB-l22.opus-medium.json": {
+  "sha256": "7fd0b9cdde8d9607d2afccde9b68e09870f7cd5225eff167ab1cc0edb4693261",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s0a253341.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALB-l22.sol-medium.json": {
+  "sha256": "1f9520db0711d62416346ae533e6e8aad2983ab18bdf212703638f67176b9643",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s0a253341.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALC-l21.opus-medium.json": {
+  "sha256": "921431c5f8d92dbf372395005636c553b7ef8497325dc8c8ece5b1f4db6a53f3",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s77ce78d8.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALC-l21.sol-medium.json": {
+  "sha256": "77bbcaf7320d81e9455b877a73eeba6dd2a1d4064b435da864115001dbabb7d4",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s77ce78d8.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALC-l25.opus-medium.json": {
+  "sha256": "a734fc5e66c8994352efe200fce9f7aa672e57fb1f0d02f006672ef272c893dc",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s33c7fb43.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALC-l25.sol-medium.json": {
+  "sha256": "299b3415cf6bc6c059fb8316ef962da24aa42acce780e706f4d5a0e170730e54",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s33c7fb43.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALO-l23.opus-medium.json": {
+  "sha256": "4ce6d1882ec60e91e2b399e8caf9782c7fe842a485403b421e629243a079ab33",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/sb64fcda7.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALO-l23.sol-medium.json": {
+  "sha256": "3fa3661dca2e4e0828a8cfe9cf6e14bc5d1d2bf989107e205adfc36269af1967",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/sb64fcda7.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALR-l24.opus-medium.json": {
+  "sha256": "372b7b73715287c8b5cb8c67737349e5aacda0987a322d2f604d94e35be5bbd0",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s607d2f36.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NALR-l24.sol-medium.json": {
+  "sha256": "d2d905af23968df9e49ea4c55eba37b2aa8a3a970530e005fd94c8ac2807b932",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s607d2f36.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASB-l22.opus-medium.json": {
+  "sha256": "560e187759123207a7329455336b9a465fe8fd85e5b0a56063df520cbb33c439",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s5f78be2a.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASB-l22.sol-medium.json": {
+  "sha256": "8bc089140d7b491c9c042039e214732a8afe122d338e16c5c79148efe6ee525f",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s5f78be2a.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASC-l21.opus-medium.json": {
+  "sha256": "ef662747174dd03723f1de1ac8b4783f602b5d2c85b0961eb219bf67cfd4c717",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sacf3ec22.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASC-l21.sol-medium.json": {
+  "sha256": "8849911ecc89407895bf95e82f24c706c184af88d2b4bf8aa1a2a14bcabaf764",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sacf3ec22.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASC-l25.opus-medium.json": {
+  "sha256": "440c47a48775ef2fe0433a7527f1a42877a0bbec8e58687c10df8ca26315304f",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s3d6bb8c3.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASC-l25.sol-medium.json": {
+  "sha256": "86eb5502dd8bbb0a6c0c3c8b82c034df662cdcd7fe3f17867162b617d28ac212",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s3d6bb8c3.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASO-l23.opus-medium.json": {
+  "sha256": "9166f04ae20a433ec100aa7fd5422592bec786ced56f16767d155a3297d64141",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sac99882c.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASO-l23.sol-medium.json": {
+  "sha256": "31834cef69956354a9b40f45f119b17065fbc74a962e74f867390cc7794b5d49",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sac99882c.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASR-l24.opus-medium.json": {
+  "sha256": "27380548dadef8bbf3361649c83c782ce9a5cf2d88d9e086b5215cf921ced6da",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sc371ad52.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NASR-l24.sol-medium.json": {
+  "sha256": "cd5729af10837970c4afd230264885cdeb7528d8e7c39ec0c3a2528757d51c65",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sc371ad52.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATB-l22.opus-medium.json": {
+  "sha256": "f8cec144e4aa5bf92f8aaa1d172ddc4631a4c77aa18b1b43bfe1845fcd269c2b",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sb5262e58.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATB-l22.sol-medium.json": {
+  "sha256": "9fd823526c4f06fc9852e8848e72e214400308d343abba5495ba6ca74072b10d",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sb5262e58.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATC-l21.opus-medium.json": {
+  "sha256": "7a555bfd8611e765fa85e76f97f2c46b899b7fb70021e64cceff0f0ff280ca5c",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sc6097494.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATC-l21.sol-medium.json": {
+  "sha256": "cd9e8026ee2c4f8d7d05990b57c3f7f4dfb365acd8b03ba87e5b68bfe3d2cd38",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sc6097494.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATC-l25.opus-medium.json": {
+  "sha256": "560e5a385ee977c04c740658e4e181f00f03afa13abc70d76529a5fa0d12a165",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s3c8a41e1.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATC-l25.sol-medium.json": {
+  "sha256": "96e8072db1b92edac3320051c08f4fe1a8bd7adf609df78403c77cd1aa7add09",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s3c8a41e1.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATO-l23.opus-medium.json": {
+  "sha256": "b42a394e6fb8c3b7d0492a9e932658d4a93a9f551b8172af345a7915eb6bf47d",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s5823167e.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATO-l23.sol-medium.json": {
+  "sha256": "9e37d6b4e659d7ed9fbab00e239fd984209c317a1589ca8a641a8f1667b798de",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s5823167e.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATR-l24.opus-medium.json": {
+  "sha256": "30b5a26dda42348763c203504f7bdae335823987a17f1ad8d02587365663abf7",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sa2bed497.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/H-NATR-l24.sol-medium.json": {
+  "sha256": "b5e922ebab603d681a1d9e98e3af7493572cc8edc4a49cf496f34c2618cee5bd",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sa2bed497.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALB-l23.opus-medium.json": {
+  "sha256": "958f87a5c2f499ddcb1e2b54de31b98473c9d8a68eb85e716e92d143cada4576",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s4cb978b4.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALB-l23.sol-medium.json": {
+  "sha256": "0b39261e3075e1632374d9ddfeb84989a8885fe71007d648bafb55d25344a27b",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s4cb978b4.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALC-l22.opus-medium.json": {
+  "sha256": "026177fe7ac98c3db849f7e081911ade34781ab7574355a3913d1ff865c0998f",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s2ee830c9.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALC-l22.sol-medium.json": {
+  "sha256": "fad392202118235da47ea1072aeaf95144e5a9b840db333a31a6bd22dc4e28ca",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s2ee830c9.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALO-l24.opus-medium.json": {
+  "sha256": "819c239caf4a09a6ff49cd22bf790a600d33d108f9b518a166e17fd19f586c0d",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/sda92e4dd.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALO-l24.sol-medium.json": {
+  "sha256": "1c9b1e2e16cefd17ba5ac1e5a7a47e0995996233efbb8dd31b953dc9e77d19d1",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/sda92e4dd.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALR-l21.opus-medium.json": {
+  "sha256": "06efa99dd3d6f7fa2d93668c9f9de77d7aa3a60b6b89e9a0f14f7c0a1b3c56d3",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/sf1058144.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALR-l21.sol-medium.json": {
+  "sha256": "00def831e4e6c6e840e9f5e3a58a58d9d13db6edf19ae2e168de8758334b184f",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/sf1058144.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALR-l25.opus-medium.json": {
+  "sha256": "20526ffebdce007442a9f96619297de81097fc1ce93c555acefe8eb5a0dc336e",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s9eceb385.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NALR-l25.sol-medium.json": {
+  "sha256": "8228e0b9989dff28db0af28545b946c5a402ced3e8441584a204db2b46c24d01",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s9eceb385.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASB-l23.opus-medium.json": {
+  "sha256": "03b8d0d5ddf042c7be5d489d9fb351d14a499aec4730b6ccbce5a9a5b0973058",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sa8fe9d95.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASB-l23.sol-medium.json": {
+  "sha256": "1cd83a6ece19b270ac7c8f8775da5b6932fc780d78d43752de9c656d19e5378f",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sa8fe9d95.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASC-l22.opus-medium.json": {
+  "sha256": "a5715120d1feb40083404769eb3a2bcf58fcdd6e32d670be6fefc516f19ddfda",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sc565e10f.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASC-l22.sol-medium.json": {
+  "sha256": "214579ff09c6586070adcc53c71e4eb00957dd6249dcaa36ab4d9554835bf9e2",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sc565e10f.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASO-l24.opus-medium.json": {
+  "sha256": "e158e6816001d046fe312b02eca1a3a0f1fae43b2e7d5086f1c1c8a3ba61852a",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s9e97ad4c.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASO-l24.sol-medium.json": {
+  "sha256": "860e81ca9b617d1a6a52abe3d8b0fce305f68e5e0ee503205149be5ea2b4403a",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s9e97ad4c.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASR-l21.opus-medium.json": {
+  "sha256": "c1db9c6a3c8363002d3219fbeddeb709a6c0c8d823dffebcbbf1068b22119639",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s7c15b60e.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASR-l21.sol-medium.json": {
+  "sha256": "aca0df84aee276a0652b44a401f9a0778c8e41e9f8923051665a4501b279ca89",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s7c15b60e.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASR-l25.opus-medium.json": {
+  "sha256": "56e8576abfb59027267fb7f33e30d8b5f1fd1d0f3823405a910a565fd6f33897",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sb235ee85.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NASR-l25.sol-medium.json": {
+  "sha256": "5062b62b4c67a8e25a8f8ce992e9df03af124370b19150d19076654dedf0f1a8",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sb235ee85.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATB-l23.opus-medium.json": {
+  "sha256": "9c25126e1794924af809529182dd4f3a639d4c1796feb3aebd01391752ceaaf9",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s874010ab.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATB-l23.sol-medium.json": {
+  "sha256": "0704dc4ea910d797e35dafd65a3e09c47be02555b97aaf6fec7bf5da1abb81d3",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s874010ab.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATC-l22.opus-medium.json": {
+  "sha256": "ec09dfb5f2c7b10cf113ca82b3d392a97cde658abe3cfd250f4366b347ade5b2",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/seee9459e.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATC-l22.sol-medium.json": {
+  "sha256": "5e01a4ef020e918d41ac61bcdf116af1fb7371fd8ebebb01ae4e98df6d89334a",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/seee9459e.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATO-l24.opus-medium.json": {
+  "sha256": "24651a1246eb5aabf133aeed014c0d0957bc1ef978b0bcce846987346efa4d9b",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/scf1f9215.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATO-l24.sol-medium.json": {
+  "sha256": "9baeb35f6ec21658e3369eda7a6e6d353f3838a48effc87193727bc3b07254b5",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/scf1f9215.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATR-l21.opus-medium.json": {
+  "sha256": "a365e29e814f35937972c37cfa6212a5bac65f7ad1b8f3b9982320e822d6bc64",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sec36e9d5.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATR-l21.sol-medium.json": {
+  "sha256": "1c5199115e4534b7bd9cb914ddf0f53119333c960cd2306d5dd0dcc1e3252e2d",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sec36e9d5.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATR-l25.opus-medium.json": {
+  "sha256": "262f4452e2ed91cad89014ac319b781072c5f1391c448aea676e68384e4b2cdc",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s843a9744.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/M-NATR-l25.sol-medium.json": {
+  "sha256": "30a7b68515c51428168023eec3cfb595f9015794056b4f1e228330862c425249",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s843a9744.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALB-l21.opus-medium.json": {
+  "sha256": "fd265f7264e4b9084bf176e1b6b66cbf1672efe60c29317b4def24a373ea52e0",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s721d5717.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALB-l21.sol-medium.json": {
+  "sha256": "85b627571093e51f64d95ea484d1a5a5bb09f1a4fcd1a2bdd0f71ab1fd8e3112",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s721d5717.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALB-l25.opus-medium.json": {
+  "sha256": "4d55d2f15e836a0f2987434646fac012c2b27fd5f1370ad3057150327f0c0c09",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/seed7b967.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALB-l25.sol-medium.json": {
+  "sha256": "dae4eb45fa9ac6d8a919811cd1450ba99b4cf0d0f19cb88ad7794d11e5b76321",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/seed7b967.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALC-l24.opus-medium.json": {
+  "sha256": "2e827a8226c7d242d91b6b71db19a6a86e401b04713d884f51fc7db6a9347f25",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s5d389c77.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALC-l24.sol-medium.json": {
+  "sha256": "71c0abe958500a7920923d39be9808e52f8a8979afc5835daf400987451a3f66",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s5d389c77.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALO-l22.opus-medium.json": {
+  "sha256": "dd64fe62bfda4d4b6ef02fbb278f7d4fb4a89cc492a856657a18d047a090fb75",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s815f14a3.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALO-l22.sol-medium.json": {
+  "sha256": "f2704100c5a77cc478be29999a29f022e71259f18131acaa5e23333785387284",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s815f14a3.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALR-l23.opus-medium.json": {
+  "sha256": "2a7e76d931ba2d0d79ed2907880f3bd929169bf8789a33eb6366f4102bb9f4cd",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/sd27bcb10.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NALR-l23.sol-medium.json": {
+  "sha256": "e912a6f881f49ecc13ed9e1dd7821dc77733a1b6f34907a708b92bd5ea5488ca",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/sd27bcb10.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASB-l21.opus-medium.json": {
+  "sha256": "eef6f2fe48f13b2c5e2ff0f7936b5d228f88837356dd6fe188f414272a9b8ab7",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s5cdde404.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASB-l21.sol-medium.json": {
+  "sha256": "31f0d84376600e8e0854d298736acaabaa377fc92be06a88054f000c7da6e4ab",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s5cdde404.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASB-l25.opus-medium.json": {
+  "sha256": "ccf3a3ffec26df28af601772a978d719c07df94bcec7454d8640c65d24362006",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s1deb69a5.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASB-l25.sol-medium.json": {
+  "sha256": "be8fd214728ea19d69a3d2ad259f9d6e56afdfb341ae5bf9a1fc91f6cdf17caa",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s1deb69a5.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASC-l24.opus-medium.json": {
+  "sha256": "9e31b99f77da28a9b20963d097b3934006af131bf407c92ab4496a2da06b7c9f",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sebf418c6.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASC-l24.sol-medium.json": {
+  "sha256": "4b519f6a16b8e51147a272717557be23f8ba1f212248cab40e007b270b752752",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sebf418c6.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASO-l22.opus-medium.json": {
+  "sha256": "bfac628d091bff5830abe2c2eec550405cf1e01bf1efd632b3ac74d6d57fbfc8",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s26ed0ec4.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASO-l22.sol-medium.json": {
+  "sha256": "35d02c9366bedbedb0f9bb8c07bbfc7268c34b45608a380167f93da945c19806",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s26ed0ec4.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASR-l23.opus-medium.json": {
+  "sha256": "eac44560ac81e59032930fff789980f10a5a0448a8ef53c1ad7bf0bf2570277c",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s923e4ec1.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NASR-l23.sol-medium.json": {
+  "sha256": "253f30e2f0bbc000f575e0fa3ccf9925124f4caa256943040ac320f7e7bb70a6",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s923e4ec1.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATB-l21.opus-medium.json": {
+  "sha256": "0eabbc78295b53e441eaf6599a7a860eb98c368fda6ad0b51a36945e2cf0a94e",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sf1d0c4c8.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATB-l21.sol-medium.json": {
+  "sha256": "410b6984118fa010436d163f86047e05fa029ea16557645ade16bc14cceb9ee2",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sf1d0c4c8.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATB-l25.opus-medium.json": {
+  "sha256": "659182658a43e3c36e432bcdf7a6e9b6a31759e81ab5d41f1a0b854b3c4b1e58",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sb54fc5fd.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATB-l25.sol-medium.json": {
+  "sha256": "b52d5e7c85d84d72d156092001de9058bea243330d7d4b660bb38a0318880d39",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sb54fc5fd.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATC-l24.opus-medium.json": {
+  "sha256": "ff21a03d1c80fe57741b85dfde2ef32bbfcc5b263235882893bcc86315de16bf",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sf78050df.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATC-l24.sol-medium.json": {
+  "sha256": "97c6253f51438a287eef668c864dc91b57b9ffb5ec1a6980dfe9d3b3a7c78c61",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sf78050df.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATO-l22.opus-medium.json": {
+  "sha256": "46c21e690d9f4034b347cb17bc0801ca4058edc4512f7f55c2933c07937cc06d",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sbd281b21.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATO-l22.sol-medium.json": {
+  "sha256": "6e949d68e6da0224d4c8784fca279102f21e812dc9a818f3b7e06c322c632a05",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sbd281b21.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATR-l23.opus-medium.json": {
+  "sha256": "e0b3518c719082de36295d489c89f717be9f89b7d854e4ffd4dd216786f6ee22",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sa9d038f7.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/P-NATR-l23.sol-medium.json": {
+  "sha256": "9912c2969373e38e48db83fc238106991fabde9cb3a49d76c031cddd474632ae",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sa9d038f7.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALB-l24.opus-medium.json": {
+  "sha256": "e0da2868600b43d4a0229fc6bea19339949709871b85811ddd709e9d7901116d",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s9743802f.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALB-l24.sol-medium.json": {
+  "sha256": "ea6ebab1ef79cbf8f74aa3d1b6333dbdcb017a9f632e66d319fbee8c7e7d9909",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s9743802f.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALC-l23.opus-medium.json": {
+  "sha256": "2e553bec6869802fff33c53b876813a79e0564e7b9f63a7a286a30755cf80471",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s20bd459a.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALC-l23.sol-medium.json": {
+  "sha256": "004289848f084620b36795ed88972cab18e17305e2356522c2ae39af7c350b2c",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s20bd459a.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALO-l21.opus-medium.json": {
+  "sha256": "a6f6de76ff9db8ee0620b29a15ed080e04261d12c86545345683883b16720a63",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s3a81e4c8.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALO-l21.sol-medium.json": {
+  "sha256": "ebbb93957078430da2429c5f22dac6a330ffcfb3c5ec4617cb1998487abd5796",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s3a81e4c8.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALO-l25.opus-medium.json": {
+  "sha256": "0d3819727e92fb830d114e83655c2ab3ad2da02c4b71004d73dec3d5954a0382",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s4279bd66.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALO-l25.sol-medium.json": {
+  "sha256": "c1118296b3e8e02021a85e03efd076686434437f2df1a92ef2ca8ed98d573a7e",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s4279bd66.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALR-l22.opus-medium.json": {
+  "sha256": "aab0b623e94f1069a702d712f49a1cc2533a44ac28f1631c0054bfe2fcb4a212",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s632e22d1.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NALR-l22.sol-medium.json": {
+  "sha256": "3433e5ec09b4197317f33ff16a89b76b494a95f74ad6690f4c98670b0ea34290",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAL/codes/s632e22d1.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASB-l24.opus-medium.json": {
+  "sha256": "67aa6a0b2fd66e8cf3dca952d670724745aa1e77b479453a8dbf7f03466a7c96",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sfe275529.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASB-l24.sol-medium.json": {
+  "sha256": "fabb51bc1877945ae604674475c5493f031fee4d627a471031c033df225c5300",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/sfe275529.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASC-l23.opus-medium.json": {
+  "sha256": "7635735e0c6ffac89fa7b02e98d96592d464c529f0b249a1a53fa4ff5ad603a0",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s86a8f274.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASC-l23.sol-medium.json": {
+  "sha256": "5bcaa51eeeb4945105d34ddad7e7524948d2c97490d194900c92f83bd4b0d4c3",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s86a8f274.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASO-l21.opus-medium.json": {
+  "sha256": "c1eb100a67a251bc2d78cf102f856d036f0409768cb56a8ae5c661673aa0bf03",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s5ae8f0ee.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASO-l21.sol-medium.json": {
+  "sha256": "042d9f7c3bd9dc8145db0739f05701ac429dacdc532182ec72329649b00de847",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s5ae8f0ee.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASO-l25.opus-medium.json": {
+  "sha256": "9d5d67b95f2e1b50c716cc098a207b5827e12e5a5c4a0f81c479c032d5a8d7f7",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/se394c158.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASO-l25.sol-medium.json": {
+  "sha256": "06b7be0481c556ec4839dce8d9d928890602689f032468cb595c0a1133e16c45",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/se394c158.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASR-l22.opus-medium.json": {
+  "sha256": "e6fa8edf1675f6aba949523e1a9096026501f6e2d28e6d68e2e0f4aa03a199f4",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s84f6dbcf.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NASR-l22.sol-medium.json": {
+  "sha256": "5224c235c9cb8392dc7ecfc8ec5e9295870933e0cb5019632118d19f5a6004b5",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAS/codes/s84f6dbcf.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATB-l24.opus-medium.json": {
+  "sha256": "f4b034a76cf2226f027388284cbb96417eef5caba3921335e432b2ac47d1789f",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s6df45a04.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATB-l24.sol-medium.json": {
+  "sha256": "ac30ba3c872b1a44fa938578b31e5aff383b09d4c61e7cb119cf2781ad6248cd",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s6df45a04.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATC-l23.opus-medium.json": {
+  "sha256": "a9cd5667473b83ef41a25a196bd21b72a0c346854891cd5a4352af825efc2e45",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s9037a3fd.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATC-l23.sol-medium.json": {
+  "sha256": "7de96aae7e482d58c248af1da0b50b4f887db5a43d84420d850af778535d68de",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s9037a3fd.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATO-l21.opus-medium.json": {
+  "sha256": "dcfb1e8fa75a1f9fb57672ccabb4a3b1bd48d4c93489705bf56e0011dc529d07",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sd571ba27.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATO-l21.sol-medium.json": {
+  "sha256": "d00545e743f398c1786e742251307296ba3cd6263132f90d777213a3098f7e86",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sd571ba27.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATO-l25.opus-medium.json": {
+  "sha256": "73f7822dbd599517aacd4864fcb8a67f1c349878ec9989d1d5f257ffe6d675f4",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s8774de8f.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATO-l25.sol-medium.json": {
+  "sha256": "62a208ebb4c3d920556b708b73649d05d2581cb3d9b331b412539f1465308e04",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/s8774de8f.sol-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATR-l22.opus-medium.json": {
+  "sha256": "74261d7cb681e001533a48f47145ac553c88544c3c105f1916c5c2c5abf96022",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sf0f2a36d.opus-medium.json",
+  "status": "coded"
+ },
+ "20261114-actor-texts-whole-lessons/SB-NATR-l22.sol-medium.json": {
+  "sha256": "3b0c3476a27860d5259d4e0546db21ea9cb46563ad6c1bc2f12d24c07057e5fe",
+  "source": "26-without-actor-texts/20261114-actor-texts-whole-lessons/runs/coding-NAT/codes/sf0f2a36d.sol-medium.json",
+  "status": "coded"
+ }
+}
