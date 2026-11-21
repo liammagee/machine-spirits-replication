@@ -1,6 +1,6 @@
 # Replication files for *Are Large Language Models Method Actors?*
 
-Liam Magee, November 2026. This standalone edition accompanies Paper 1 and its research data. The source corresponds to the paper freeze `paper1-freeze-20261119d`, commit `c7a9bb025a95e5c111bd178e3b3a1ea513d81a85`. The study data and the separate tutor software accompany the [Zenodo dataset](https://doi.org/10.5281/zenodo.24407172). The first data release is [version 1](https://doi.org/10.5281/zenodo.24380592).
+Liam Magee, November 2026. This standalone edition accompanies Paper 1 and its research data. The source corresponds to the paper freeze `paper1-freeze-20261119d`, commit `c7a9bb025a95e5c111bd178e3b3a1ea513d81a85`. The study data and the separate tutor software accompany the [Zenodo dataset](https://doi.org/10.5281/zenodo.24426117), version 3. The earlier data releases are [version 2](https://doi.org/10.5281/zenodo.24407172) and [version 1](https://doi.org/10.5281/zenodo.24380592).
 
 ## Reproduce the published results
 
